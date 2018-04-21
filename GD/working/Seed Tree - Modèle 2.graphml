@@ -553,9 +553,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="18.75" sy="15.0" tx="-14.25" ty="-12.96875">
-            <y:Point x="270.25" y="122.5"/>
-            <y:Point x="276.0" y="122.5"/>
-            <y:Point x="276.0" y="185.5"/>
+            <y:Point x="270.25" y="185.5"/>
             <y:Point x="355.0" y="185.5"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -669,9 +667,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="6.25" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="257.75" y="138.5"/>
-            <y:Point x="262.5" y="138.5"/>
-            <y:Point x="262.5" y="201.5"/>
+            <y:Point x="257.75" y="201.5"/>
             <y:Point x="285.75" y="201.5"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
