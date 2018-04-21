@@ -1,0 +1,1149 @@
+﻿Log file open, 04/14/18 13:39:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudumDare_2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-637241713) SRandInit(-637241713).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183740
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.14-11.39.40:465][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-11.39.40:465][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.14-11.39.40:504][  0]LogInit: Computer: DESKTOP-OES438D
+[2018.04.14-11.39.40:504][  0]LogInit: User: Audr
+[2018.04.14-11.39.40:504][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.14-11.39.40:504][  0]LogInit: High frequency timer resolution =2.825492 MHz
+[2018.04.14-11.39.40:505][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.14-11.39.40:505][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-11.39.40:505][  0]LogMemory: Process Physical Memory: 279.55 MB used, 279.55 MB peak
+[2018.04.14-11.39.40:505][  0]LogMemory: Process Virtual Memory: 273.84 MB used, 273.84 MB peak
+[2018.04.14-11.39.40:505][  0]LogMemory: Physical Memory: 6886.48 MB used,  1228.79 MB free, 8115.27 MB total
+[2018.04.14-11.39.40:505][  0]LogMemory: Virtual Memory: 684.52 MB used,  1228.79 MB free, 134217728.00 MB total
+[2018.04.14-11.39.40:814][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.14-11.39.40:814][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.14-11.39.40:831][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.14-11.39.40:832][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.04.14-11.39.41:866][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.14-11.39.41:967][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.04.14-11.39.41:967][  0]LogD3D11RHI:       2010/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.14-11.39.41:975][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.04.14-11.39.41:975][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.14-11.39.41:978][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.14-11.39.41:978][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.14-11.39.41:978][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.14-11.39.41:988][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.14-11.39.41:988][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.14-11.39.41:988][  0]LogWindows: EnumDisplayDevices:
+[2018.04.14-11.39.41:988][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.04.14-11.39.41:989][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.14-11.39.41:989][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.14-11.39.41:989][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.14-11.39.41:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.04.14-11.39.41:989][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.14-11.39.41:989][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.14-11.39.41:989][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.14-11.39.42:040][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.14-11.39.42:061][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.14-11.39.42:062][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Intermediate/Shaders/WorkingDirectory/14900/).
+[2018.04.14-11.39.42:062][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Audr/AppData/Local/Temp/UnrealShaderWorkingDir/98926CC848CE29F13B00ECB5B64AC36F/'.
+[2018.04.14-11.39.42:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.14-11.39.44:182][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.14-11.39.44:258][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.14-11.39.44:322][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.14-11.39.44:388][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.14-11.39.44:551][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.14-11.39.44:651][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.14-11.39.44:722][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.14-11.39.44:785][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.14-11.39.44:941][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.14-11.39.45:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.14-11.39.45:076][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.14-11.39.45:374][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.14-11.39.45:523][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.14-11.39.45:632][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.14-11.39.45:693][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.14-11.39.45:897][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.14-11.39.45:897][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.14-11.39.45:965][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.14-11.39.46:158][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.14-11.39.46:199][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.14-11.39.46:276][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.14-11.39.46:385][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.14-11.39.46:490][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.14-11.39.46:598][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.14-11.39.46:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.14-11.39.47:357][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.14-11.39.47:482][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Audr/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.14-11.39.47:483][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Audr/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.14-11.39.47:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.14-11.39.47:483][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.14-11.39.47:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.14-11.39.47:483][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.14-11.39.47:504][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.14-11.39.47:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Audr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.14-11.39.47:546][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.14-11.39.47:547][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.14-11.39.47:548][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-11.39.47:548][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-11.39.48:012][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.04.14-11.39.48:159][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-11.39.48:888][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.14-11.39.49:073][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.14-11.39.49:073][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.14-11.39.49:073][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.14-11.39.49:073][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.14-11.39.49:073][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.14-11.39.49:074][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.14-11.39.49:710][  0]LogNetVersion: LudumDare_2018 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3004475821)
+[2018.04.14-11.39.51:127][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.438348 seconds
+[2018.04.14-11.39.51:148][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.14-11.39.51:148][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.04.14-11.39.51:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.14-11.39.51:247][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.14-11.39.55:394][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.14-11.39.55:452][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.14-11.39.56:741][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.14-11.40.01:886][  0]SourceControl: Source control is disabled
+[2018.04.14-11.40.01:886][  0]SourceControl: Source control is disabled
+[2018.04.14-11.40.01:968][  0]SourceControl: Source control is disabled
+[2018.04.14-11.40.02:039][  0]SourceControl: Source control is disabled
+[2018.04.14-11.40.02:930][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.14-11.40.03:285][  0]LogOcInput: OculusInput pre-init called
+[2018.04.14-11.40.03:637][  0]LogEngine: Initializing Engine...
+[2018.04.14-11.40.03:640][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.14-11.40.03:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-11.40.03:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-11.40.04:324][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.14-11.40.04:341][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-11.40.04:399][  0]LogInit: FAudioDevice initialized.
+[2018.04.14-11.40.10:881][  0]LogDerivedDataCache: Saved boot cache 6.48s 93MB C:/Users/Audr/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.14-11.40.11:341][  0]LogInit: Texture streaming: Enabled
+[2018.04.14-11.40.11:515][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.14-11.40.12:276][  0]LogInit: Transaction tracking system initialized
+[2018.04.14-11.40.12:743][  0]BlueprintLog: New page: Editor Load
+[2018.04.14-11.40.18:020][  0]LocalizationService: Localization service is disabled
+[2018.04.14-11.40.20:596][  0]LogConsoleResponse: Display: 
+[2018.04.14-11.40.22:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/' took 0.01s
+[2018.04.14-11.40.22:718][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.14-11.40.22:719][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.14-11.40.22:719][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.14-11.40.24:236][  0]SourceControl: Source control is disabled
+[2018.04.14-11.40.24:236][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-11.40.24:236][  0]LightingResults: New page: Lighting Build
+[2018.04.14-11.40.24:338][  0]MapCheck: New page: Map Check
+[2018.04.14-11.40.24:338][  0]LightingResults: New page: Lighting Build
+[2018.04.14-11.40.24:576][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.14-11.40.24:585][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-11.40.24:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-11.40.24:718][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.412ms to complete.
+[2018.04.14-11.40.24:718][  0]LogFileHelpers: Loading map 'Template_Default' took 0.483
+[2018.04.14-11.40.32:265][  0]LogCollectionManager: Loaded 0 collections in 0.006238 seconds
+[2018.04.14-11.40.33:386][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Collections/' took 0.01s
+[2018.04.14-11.40.33:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Developers/Audr/Collections/' took 0.01s
+[2018.04.14-11.40.33:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Collections/' took 0.01s
+[2018.04.14-11.40.33:387][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.14-11.40.33:511][  0]LogContentBrowser: Native class hierarchy populated in 0.0659 seconds. Added 2386 classes and 500 folders.
+[2018.04.14-11.40.34:459][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.04.14-11.40.40:196][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.04.14-11.40.41:383][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2018.04.14-11.40.47:058][  0]LogSlate: Took 0.001871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-11.40.47:088][  0]LogSlate: Took 0.000532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.14-11.40.47:722][  0]LogSlate: Took 0.077112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.14-11.40.49:854][  0]LogRenderer: Reallocating scene render targets to support 1224x524 Format 10 NumSamples 1 (Frame:1).
+[2018.04.14-11.40.54:974][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.14-11.40.54:975][  0]LogLoad: (Engine Initialization) Total time: 77.18 seconds
+[2018.04.14-11.40.54:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.14-11.40.54:975][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.14-11.40.58:896][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.14-11.41.00:110][  4]LogAssetRegistry: Asset discovery search completed in 72.1202 seconds
+[2018.04.14-11.41.00:111][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.14-11.41.00:111][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.04.14-11.42.47:001][426]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-11.45.54:833][709]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-11.45.56:891][709]LogSavePackage: Save=119.49ms
+[2018.04.14-11.45.56:891][709]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_ImportsB7AFFE3D4283CAE5E31E55AD29AB6BAD.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_Imports.umap'
+[2018.04.14-11.45.56:955][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_Imports.umap
+[2018.04.14-11.45.56:966][709]LogFileHelpers: Saving map 'Map_Imports' took 0.450
+[2018.04.14-11.45.57:061][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_Level" FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.14-11.45.57:082][709]LogSavePackage: Save=6.66ms
+[2018.04.14-11.45.57:083][709]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_Level32D44CA24A167830AE724DBEC88D499E.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_Level.umap'
+[2018.04.14-11.45.57:091][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_Level.umap
+[2018.04.14-11.45.57:091][709]LogFileHelpers: Saving map 'Map_Level' took 0.125
+[2018.04.14-11.45.57:181][709]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-11.45.57:209][709]LogSavePackage: Save=7.04ms
+[2018.04.14-11.45.57:210][709]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu86E25F11425DDA6177651C8A503F8BB0.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-11.45.57:219][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-11.45.57:219][709]LogFileHelpers: Saving map 'Map_MainMenu' took 0.127
+[2018.04.14-11.45.57:253][709]Cmd: MAP LOAD FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-11.45.57:253][709]LightingResults: New page: Lighting Build
+[2018.04.14-11.45.57:254][709]LoadErrors: New page: Loading map: Map_MainMenu.umap
+[2018.04.14-11.45.57:255][709]MapCheck: New page: Map Check
+[2018.04.14-11.45.57:255][709]LightingResults: New page: Lighting Build
+[2018.04.14-11.45.57:373][709]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-11.45.57:374][709]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-11.45.57:604][709]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-11.45.57:707][709]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.611ms to complete.
+[2018.04.14-11.45.57:708][709]LogFileHelpers: Loading map 'Map_MainMenu' took 0.484
+[2018.04.14-11.47.06:861][496]LogSavePackage: Save=8.05ms
+[2018.04.14-11.47.06:861][496]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu9066F6DB433860C062EF39B45C54107B.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-11.47.06:865][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-11.47.49:226][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:238][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:238][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:239][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:239][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:239][713]LogMetaData: Removing '/Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/BP_Character.PackageMetaData'
+[2018.04.14-11.47.49:377][713]LogSavePackage: Save=45.11ms
+[2018.04.14-11.47.49:377][713]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_PlayerCharacter5E22F5F6490F6741492CC299F04CF6E0.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/Character/BP_PlayerCharacter.uasset'
+[2018.04.14-11.47.49:384][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/Character/BP_PlayerCharacter.uasset
+[2018.04.14-11.48.03:938][741]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.LudumDare2018
+[2018.04.14-11.48.03:938][741]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.14-11.48.03:938][741]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.14-11.48.03:938][741]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.14-11.48.03:954][743]LogTemp: BranchPath = DESKTOP-OES438D/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-OES438D/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.14-11.48.04:337][789]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Audr\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.14-11.48.14:323][937]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-11.48.27:472][481]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.14-11.48.34:123][234]LogSavePackage: Save=6.82ms
+[2018.04.14-11.48.34:123][234]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu0590CD5542951FC2C9C53CB2B3305D55.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-11.48.34:128][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-11.52.36:866][ 25]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2018.04.14-11.52.41:833][ 25]LogSlate: Took 0.011845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.14-11.53.28:696][780]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.54.06:960][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:009][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:011][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:013][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:038][566]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:041][566]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:059][567]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:064][567]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:084][568]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:086][568]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:106][569]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:109][569]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:132][570]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:135][570]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:154][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:156][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:183][572]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:185][572]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:205][573]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:206][573]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:208][573]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:232][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:234][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:254][575]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:257][575]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:276][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:281][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:283][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:302][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:304][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:322][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:324][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:348][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:351][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:371][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:373][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:391][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:397][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:418][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:420][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:439][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:440][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:443][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:465][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:468][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:486][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:488][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:490][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:514][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:517][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:537][587]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:539][587]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:557][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:559][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:564][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:584][589]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:586][589]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:606][590]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:608][590]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:633][591]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:635][591]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:653][592]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:674][593]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:698][594]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:718][595]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:736][596]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:756][597]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:781][598]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:783][598]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:804][599]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:806][599]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:824][600]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:830][600]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:850][601]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:852][601]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:873][602]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:893][603]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:898][603]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:918][604]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:921][604]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:939][605]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:941][605]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:946][605]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:966][606]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:969][606]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:987][607]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.07:989][607]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:014][608]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:016][608]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:037][609]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:039][609]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:057][610]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:059][610]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:064][610]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:085][611]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:087][611]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:106][612]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:109][612]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:133][613]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:135][613]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:154][614]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:157][614]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:180][615]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:200][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:202][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:221][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:248][618]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:268][619]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:286][620]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:307][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:310][621]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:332][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:335][622]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:354][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:357][623]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:376][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:380][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:383][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:402][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:405][625]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:422][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:424][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:430][626]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:450][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:452][627]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:471][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:473][628]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:496][629]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:499][629]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:519][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:521][630]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:541][631]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:565][632]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:587][633]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:604][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:607][634]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:631][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:634][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:653][636]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:656][636]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:675][637]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:680][637]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:700][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_284' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:703][638]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:721][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:724][639]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:747][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:750][640]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:771][641]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:789][642]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:814][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:834][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:852][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:874][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:898][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.08:919][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.42:941][158]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.54.48:118][387]LogSlate: Took 0.056607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.14-11.54.50:855][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:856][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:858][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:882][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:883][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:886][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:905][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:906][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:908][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:927][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:931][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:934][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:954][502]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:956][502]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:975][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.50:977][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:001][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:004][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:023][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:025][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:049][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:051][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:073][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:089][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:092][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:117][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:137][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:139][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:158][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:185][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:203][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:224][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.54.51:249][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.04.14-11.56.47:354][810]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.56.48:108][838]LogSavePackage: Save=28.86ms
+[2018.04.14-11.56.48:108][838]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu8F725F324549C70603B4A7A2F2B56FE9.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.56.48:118][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-11.57.18:260][241]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.57.18:878][263]LogSavePackage: Save=22.63ms
+[2018.04.14-11.57.18:878][263]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuC0CDFB4D42C7BBF3C3F9EA9111C7DF64.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.57.18:888][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-11.57.24:809][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_10.WidgetTree_13.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.REINST_Widget_MainMenu_C_31:WidgetTree.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:WidgetTree.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_2.WidgetTree_34.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_12.WidgetTree_19.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_15.WidgetTree_22.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_16.WidgetTree_23.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_17.WidgetTree_24.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_18.WidgetTree_25.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_19.WidgetTree_26.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_20.WidgetTree_27.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_21.WidgetTree_28.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_22.WidgetTree_29.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_23.WidgetTree_30.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0 or HorizontalBox /Engine/Transient.REINST_Widget_MainMenu_C_29:WidgetTree.HorizontalBox_0
+[2018.04.14-11.57.24:810][504]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Engine/Transient.World_2:Widget_MainMenu_C_1.WidgetTree_32.HorizontalBox_0.HorizontalBoxSlot_1) from referencer (Button /Engine/UMG/Editor/Transient.Button_Credits).  Import failed...
+[2018.04.14-11.57.24:810][504]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'HorizontalBox_0.HorizontalBoxSlot_1''
+[2018.04.14-11.58.45:613][ 93]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.58.46:487][127]LogSavePackage: Save=25.79ms
+[2018.04.14-11.58.46:487][127]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuD688555F4F3CF65F22F846803CEE5121.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.58.46:494][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-11.59.08:327][849]LogSavePackage: Save=26.66ms
+[2018.04.14-11.59.08:327][849]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu74504A6F46C8BE04A34C0A9458A01A68.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.59.08:335][849]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-11.59.10:902][992]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.59.11:408][ 18]LogSavePackage: Save=24.61ms
+[2018.04.14-11.59.11:408][ 18]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu39CDC03D41BEF7F69583E39B3FCB2B69.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.59.11:412][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-11.59.51:808][ 16]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-11.59.52:383][ 38]LogSavePackage: Save=26.00ms
+[2018.04.14-11.59.52:383][ 38]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu5929B3C247696E93305157A80EE8D7D6.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-11.59.52:393][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.00.19:733][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map_MainMenu' took 0.029
+[2018.04.14-12.00.19:737][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([1] browsable assets)...
+[2018.04.14-12.00.19:737][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2018.04.14-12.00.19:745][178]LogSavePackage: Save=3.69ms
+[2018.04.14-12.00.19:745][178]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameInstance_Auto19E902CA340ACF976B8C8378E03F31DCF.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/Blueprints/BP_GameInstance_Auto1.uasset'
+[2018.04.14-12.00.19:748][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/Blueprints/BP_GameInstance_Auto1.uasset
+[2018.04.14-12.00.19:752][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2018.04.14-12.00.19:752][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2018.04.14-12.00.19:768][178]LogSavePackage: Save=12.67ms
+[2018.04.14-12.00.19:768][178]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameMode_Auto1C6E89C6841F7FB26BE65C797C3F42F66.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto1.uasset'
+[2018.04.14-12.00.19:773][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto1.uasset
+[2018.04.14-12.00.19:773][178]LogFileHelpers: Auto-saving content packages took 0.038
+[2018.04.14-12.00.20:065][189]LogSavePackage: Save=22.61ms
+[2018.04.14-12.00.20:065][189]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu07811C2E49F76E62942763AC154D1DF1.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.00.20:069][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.01.45:612][153]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.01.46:198][173]LogSavePackage: Save=28.51ms
+[2018.04.14-12.01.46:198][173]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu563604F046C739523BFB97B81E8A28FF.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.01.46:208][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.02.54:703][325]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.02.55:805][368]LogSavePackage: Save=27.75ms
+[2018.04.14-12.02.55:805][368]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu6294592A4B877C1568E247ACE0D3CF59.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.02.55:813][368]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.04.32:763][611]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.04.33:609][644]LogSavePackage: Save=29.03ms
+[2018.04.14-12.04.33:609][644]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu1E605FEA480BF825268E87BBDB4BB2ED.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.04.33:620][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.04.44:724][144]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.04.45:461][172]LogSavePackage: Save=26.77ms
+[2018.04.14-12.04.45:461][172]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuE508BC3643354E46115D45B9190EAEDE.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.04.45:470][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_41.WidgetTree_64.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_27.WidgetTree_42.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_2.WidgetTree_44.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_42.WidgetTree_65.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_29.WidgetTree_47.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_28.WidgetTree_46.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_44.WidgetTree_67.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_43:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_43:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_33.WidgetTree_52.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_32.WidgetTree_63.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_30.WidgetTree_48.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_51:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_35.WidgetTree_56.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_31.WidgetTree_49.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_51:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_48:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_48:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_34.WidgetTree_55.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_43.WidgetTree_66.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_36.WidgetTree_57.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_37.WidgetTree_58.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_38.WidgetTree_59.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_45.WidgetTree_68.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_39.WidgetTree_60.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_40.WidgetTree_61.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_46.WidgetTree_69.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_60:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_60:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_47.WidgetTree_70.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_48.WidgetTree_71.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_74:WidgetTree.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_74:Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_49.WidgetTree_72.Switcher
+[2018.04.14-12.04.51:516][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Game/01_MainMenu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_50.WidgetTree_73.Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.TRASHCLASS_Widget_MainMenu_102:Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_72:Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_72:WidgetTree.Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_52.WidgetTree_77.Switcher
+[2018.04.14-12.04.51:517][430]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_51.WidgetTree_75.Switcher
+[2018.04.14-12.04.51:517][430]LogProperty: Warning: Illegal TEXT reference to a private object in external package (WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher.WidgetSwitcherSlot_2) from referencer (CanvasPanel /Engine/UMG/Editor/Transient.Panel_Options).  Import failed...
+[2018.04.14-12.04.51:517][430]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'WidgetSwitcherSlot'Switcher.WidgetSwitcherSlot_2''
+[2018.04.14-12.05.45:218][839]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.05.45:915][864]LogSavePackage: Save=31.00ms
+[2018.04.14-12.05.45:915][864]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu1647BB694F5D9251C8025E81FAD6A091.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.05.45:924][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.06.34:345][199]LogSavePackage: Save=27.52ms
+[2018.04.14-12.06.34:345][199]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu482099F44EDAE102C4AC14BC286DAAE4.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.06.34:350][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_41.WidgetTree_64.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_27.WidgetTree_42.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_2.WidgetTree_44.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_42.WidgetTree_65.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_29.WidgetTree_47.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_28.WidgetTree_46.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_44.WidgetTree_67.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_43:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_43:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_33.WidgetTree_52.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_32.WidgetTree_63.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_30.WidgetTree_48.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_51:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_35.WidgetTree_56.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_31.WidgetTree_49.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_51:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_48:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_48:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_34.WidgetTree_55.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_54.WidgetTree_79.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_43.WidgetTree_66.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_36.WidgetTree_57.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_55.WidgetTree_80.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_37.WidgetTree_58.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.TRASHCLASS_Widget_MainMenu_108:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_38.WidgetTree_59.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_45.WidgetTree_68.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_56.WidgetTree_81.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_39.WidgetTree_60.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Game/01_MainMenu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_40.WidgetTree_61.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_46.WidgetTree_69.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_80:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_60:Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_60:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_80:WidgetTree.Switcher
+[2018.04.14-12.06.40:601][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:WidgetTree.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_52.WidgetTree_83.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_47.WidgetTree_70.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_48.WidgetTree_71.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_74:WidgetTree.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_74:Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_49.WidgetTree_72.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_53.WidgetTree_78.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_50.WidgetTree_73.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or ObjectProperty /Engine/Transient.REINST_Widget_MainMenu_C_72:Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.REINST_Widget_MainMenu_C_72:WidgetTree.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_26.WidgetTree_41.Switcher or WidgetSwitcher /Engine/Transient.World_2:Widget_MainMenu_C_51.WidgetTree_75.Switcher
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_53.WidgetTree_78.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_54.WidgetTree_79.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_55.WidgetTree_80.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_56.WidgetTree_81.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu_C:WidgetTree.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogUObjectHash: Warning: Ambiguous search, could be WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3 or WidgetSwitcherSlot /Engine/Transient.World_2:Widget_MainMenu_C_52.WidgetTree_83.Switcher.WidgetSwitcherSlot_3
+[2018.04.14-12.06.40:602][726]LogProperty: Warning: Illegal TEXT reference to a private object in external package (WidgetSwitcherSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.Switcher.WidgetSwitcherSlot_3) from referencer (CanvasPanel /Engine/UMG/Editor/Transient.Panel_Credits).  Import failed...
+[2018.04.14-12.06.40:602][726]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'WidgetSwitcherSlot'Switcher.WidgetSwitcherSlot_3''
+[2018.04.14-12.06.57:415][119]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_58.WidgetTree_85.HorizontalBox_1
+[2018.04.14-12.06.57:415][119]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_2:Widget_MainMenu_C_59.WidgetTree_86.HorizontalBox_1
+[2018.04.14-12.06.57:415][119]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/01_MainMenu/Widget/Widget_MainMenu.Widget_MainMenu:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_5) from referencer (Button /Engine/UMG/Editor/Transient.Button_330).  Import failed...
+[2018.04.14-12.06.57:415][119]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'HorizontalBox_1.HorizontalBoxSlot_5''
+[2018.04.14-12.07.23:631][389]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.07.24:182][420]LogSavePackage: Save=45.74ms
+[2018.04.14-12.07.24:182][420]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu592FAA8C4A7DFB45ECAC9F8FDD5C800E.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.07.24:193][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.07.31:692][971]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.09.16:063][ 78]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.09.49:499][989]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.09.50:110][ 26]LogSavePackage: Save=47.42ms
+[2018.04.14-12.09.50:110][ 26]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu42E0ACEF4DAEE8463E65C9AF0E8063A9.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.09.50:119][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.10.00:482][906]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.10.01:336][939]LogSavePackage: Save=56.81ms
+[2018.04.14-12.10.01:336][939]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu84830A5C47D9F40D423C6BAD92EA810F.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.10.01:348][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.10.11:616][834]LogEditorTransaction: Undo Move Widgets
+[2018.04.14-12.10.40:221][450]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.10.40:840][493]LogSavePackage: Save=38.68ms
+[2018.04.14-12.10.40:840][493]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuBF9A07B04B088ADD64A315B44B02AB00.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.10.40:850][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.10.43:406][721]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.10.43:938][758]LogSavePackage: Save=38.90ms
+[2018.04.14-12.10.43:938][758]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu9966F7D54B32FC6F22D5C4918C7BA5A3.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.10.43:947][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.10.55:951][850]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.10.56:489][891]LogSavePackage: Save=39.83ms
+[2018.04.14-12.10.56:489][891]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu9CD2943C41458B05AE1CFC88FE180E51.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.10.56:498][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.11.06:362][899]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.11.07:229][990]LogSavePackage: Save=35.25ms
+[2018.04.14-12.11.07:229][990]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu7B03EDE948007C04809584A264DC62AC.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.11.07:237][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.13.00:597][363]LogSavePackage: Save=41.63ms
+[2018.04.14-12.13.00:598][363]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuC6A55A8D4C3B85A98455A099AA2D3D22.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.13.00:607][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.13.05:500][944]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.13.06:326][ 13]LogSavePackage: Save=94.57ms
+[2018.04.14-12.13.06:326][ 13]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu45AF3F7741E35096DFA49A8B4D7076D5.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.13.06:332][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.13.16:708][156]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.13.17:282][210]LogSavePackage: Save=48.21ms
+[2018.04.14-12.13.17:282][210]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuFB764CC74EFC3995CA722691F2A11ECD.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.13.17:291][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.13.51:468][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map_MainMenu' took 0.033
+[2018.04.14-12.13.51:473][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/01_MainMenu/Widget/Widget_MainMenu] ([1] browsable assets)...
+[2018.04.14-12.13.51:473][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/01_MainMenu/Widget/Widget_MainMenu]
+[2018.04.14-12.13.51:525][203]LogSavePackage: Save=44.07ms
+[2018.04.14-12.13.51:525][203]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu_Auto2BE80CD194B0A8E64ABF848AA414971EB.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/01_MainMenu/Widget/Widget_MainMenu_Auto2.uasset'
+[2018.04.14-12.13.51:529][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Autosaves/Game/01_MainMenu/Widget/Widget_MainMenu_Auto2.uasset
+[2018.04.14-12.13.51:529][203]LogFileHelpers: Auto-saving content packages took 0.060
+[2018.04.14-12.13.54:931][608]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.13.55:619][675]LogSavePackage: Save=48.50ms
+[2018.04.14-12.13.55:619][675]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu4A3F0C474D0FC0EB534D5D9B8C1F2584.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.13.55:628][675]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.14.08:110][  0]LogSlate: Took 0.049954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.14-12.14.14:815][778]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.14.53:087][146]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.14.53:654][195]LogSavePackage: Save=56.17ms
+[2018.04.14-12.14.53:654][195]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu52DA77AA4CB045AC473277B5C3C4EE92.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.14.53:664][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.15.24:604][747]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.15.25:182][797]LogSavePackage: Save=62.81ms
+[2018.04.14-12.15.25:182][797]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu3B393F87413782D2F0B73E8CEBF626E4.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.15.25:191][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.15.44:103][964]BlueprintLog: New page: Compile Widget_MainMenu
+[2018.04.14-12.15.44:825][ 30]LogSavePackage: Save=62.53ms
+[2018.04.14-12.15.44:825][ 30]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu44477BC04A29755F5054CA95BAC7B5C1.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.15.44:833][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.16.02:550][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.16.02:615][ 73]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:16:02 PM)
+[2018.04.14-12.16.02:635][ 73]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.16.02:680][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044736s)
+[2018.04.14-12.16.02:683][ 73]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.16.02:684][ 73]LogPlayLevel: PIE: World Init took: (0.004131s)
+[2018.04.14-12.16.02:700][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_MainMenu.Map_MainMenu to /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.068319s)
+[2018.04.14-12.16.02:773][ 73]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.16.02:804][ 73]LogInit: FAudioDevice initialized.
+[2018.04.14-12.16.03:026][ 73]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.16.03:048][ 73]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.16.03
+[2018.04.14-12.16.03:075][ 73]LogWorld: Bringing up level for play took: 0.029971
+[2018.04.14-12.16.03:188][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.16.03:560][ 73]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.04.14-12.16.03:688][ 73]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map_MainMenu 1.689
+[2018.04.14-12.16.03:856][ 73]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.14-12.16.10:421][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2018.04.14-12.16.10:431][581]LogSavePackage: Save=6.09ms
+[2018.04.14-12.16.10:431][581]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameInstance1A81928A4A905ED3E8CF0394CEE5214D.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameInstance.uasset'
+[2018.04.14-12.16.10:440][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameInstance.uasset
+[2018.04.14-12.16.10:440][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.04.14-12.16.10:455][581]LogSavePackage: Save=11.99ms
+[2018.04.14-12.16.10:455][581]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameMode2539A3024D56DD44B446609D54BFD432.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameMode.uasset'
+[2018.04.14-12.16.10:465][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Blueprints/BP_GameMode.uasset
+[2018.04.14-12.16.10:469][581]Cmd: MAP LOAD FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-12.16.10:469][581]LightingResults: New page: Lighting Build
+[2018.04.14-12.16.10:472][581]LoadErrors: New page: Loading map: Map_MainMenu.umap
+[2018.04.14-12.16.10:472][581]MapCheck: New page: Map Check
+[2018.04.14-12.16.10:472][581]LightingResults: New page: Lighting Build
+[2018.04.14-12.16.10:509][581]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.16.10:525][581]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-12.16.10:567][581]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-12.16.10:668][581]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.124ms to complete.
+[2018.04.14-12.16.10:669][581]LogFileHelpers: Loading map 'Map_MainMenu' took 0.203
+[2018.04.14-12.16.26:603][378]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.14-12.16.54:768][700]BlueprintLog: New page: Compile Map_MainMenu
+[2018.04.14-12.16.55:674][774]LogSavePackage: Save=22.70ms
+[2018.04.14-12.16.55:674][774]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu1B4386024EE71735FE68B297A611224A.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.16.55:683][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.16.55:702][774]LogFileHelpers: Saving map 'Map_MainMenu' took 0.178
+[2018.04.14-12.16.56:475][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-12.16.56:489][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.16.56:490][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.16.56:490][865]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:16:56 PM)
+[2018.04.14-12.16.56:490][865]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.16.56:491][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2018.04.14-12.16.56:492][865]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.16.56:492][865]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.04.14-12.16.56:492][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_MainMenu.Map_MainMenu to /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.002167s)
+[2018.04.14-12.16.56:515][865]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.16.56:531][865]LogInit: FAudioDevice initialized.
+[2018.04.14-12.16.56:570][865]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.16.56:572][865]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.16.56
+[2018.04.14-12.16.56:600][865]LogWorld: Bringing up level for play took: 0.028951
+[2018.04.14-12.16.56:600][865]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.16.56:616][865]PIE: Error: SetInputMode_UIOnly expects a valid player controller as target
+[2018.04.14-12.16.56:632][865]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map_MainMenu 0.633
+[2018.04.14-12.16.56:633][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.16.58:704][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.16.58:750][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.17.23:719][ 25]BlueprintLog: New page: Compile Map_MainMenu
+[2018.04.14-12.17.24:354][ 78]LogSavePackage: Save=22.93ms
+[2018.04.14-12.17.24:354][ 78]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuAE7C3F8A4D9D6D209BA7119E4BD1855F.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.17.24:363][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.17.24:379][ 78]LogFileHelpers: Saving map 'Map_MainMenu' took 0.169
+[2018.04.14-12.17.24:931][143]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-12.17.24:946][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.17.24:946][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.17.24:946][143]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:17:24 PM)
+[2018.04.14-12.17.24:946][143]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.17.24:947][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2018.04.14-12.17.24:948][143]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.17.24:948][143]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.04.14-12.17.24:948][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_MainMenu.Map_MainMenu to /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.001916s)
+[2018.04.14-12.17.24:968][143]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.17.24:985][143]LogInit: FAudioDevice initialized.
+[2018.04.14-12.17.25:023][143]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.17.25:025][143]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.17.25
+[2018.04.14-12.17.25:025][143]LogWorld: Bringing up level for play took: 0.000865
+[2018.04.14-12.17.25:025][143]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.17.25:091][143]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map_MainMenu 1.092
+[2018.04.14-12.17.25:092][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.17.28:128][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.17.28:182][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.17.56:955][796]BlueprintLog: New page: Compile Map_MainMenu
+[2018.04.14-12.17.57:015][796]LogBlueprint: Error: [Compiler PersistentLevel.Map_MainMenu] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.04.14-12.17.57:038][796]LogBlueprint: Error: [Compiler PersistentLevel.Map_MainMenu] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.14-12.17.57:124][796]LogBlueprint: Warning: [Compiler PersistentLevel.Map_MainMenu] [2299.33] Compile of PersistentLevel.Map_MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu)
+[2018.04.14-12.18.01:544][316]BlueprintLog: New page: Compile Map_MainMenu
+[2018.04.14-12.18.13:424][727]BlueprintLog: New page: Compile Map_MainMenu
+[2018.04.14-12.18.14:295][807]LogSavePackage: Save=27.81ms
+[2018.04.14-12.18.14:295][807]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuB5D5D0C446CF1700E0B2D39FB14B37F3.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.18.14:305][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.18.14:322][807]LogFileHelpers: Saving map 'Map_MainMenu' took 0.178
+[2018.04.14-12.18.14:749][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-12.18.14:762][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.14:763][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.18.14:763][857]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:18:14 PM)
+[2018.04.14-12.18.14:763][857]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.18.14:764][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000907s)
+[2018.04.14-12.18.14:764][857]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.18.14:765][857]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.04.14-12.18.14:765][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_MainMenu.Map_MainMenu to /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.001914s)
+[2018.04.14-12.18.14:787][857]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.18.14:804][857]LogInit: FAudioDevice initialized.
+[2018.04.14-12.18.14:847][857]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.18.14:849][857]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.18.14
+[2018.04.14-12.18.14:849][857]LogWorld: Bringing up level for play took: 0.001180
+[2018.04.14-12.18.14:850][857]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.18.14:854][857]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map_MainMenu 0.855
+[2018.04.14-12.18.14:854][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.21:832][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.21:882][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.23:132][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-12.18.23:146][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.23:146][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.18.23:146][737]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:18:23 PM)
+[2018.04.14-12.18.23:146][737]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.18.23:147][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000988s)
+[2018.04.14-12.18.23:148][737]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.18.23:148][737]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.04.14-12.18.23:148][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_MainMenu.Map_MainMenu to /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.001981s)
+[2018.04.14-12.18.23:173][737]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.18.23:189][737]LogInit: FAudioDevice initialized.
+[2018.04.14-12.18.23:232][737]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.18.23:235][737]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.18.23
+[2018.04.14-12.18.23:236][737]LogWorld: Bringing up level for play took: 0.003840
+[2018.04.14-12.18.23:238][737]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.18.23:241][737]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Map_MainMenu -0.757
+[2018.04.14-12.18.23:242][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.23:972][800]LogNet: Browse: /Game/Map/Map_Level
+[2018.04.14-12.18.23:973][800]LogLoad: LoadMap: /Game/Map/Map_Level
+[2018.04.14-12.18.24:028][800]Cmd: MEM
+[2018.04.14-12.18.24:202][800]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-12.18.24:202][800]LogMemory: Process Physical Memory: 876.11 MB used, 1318.54 MB peak
+[2018.04.14-12.18.24:202][800]LogMemory: Process Virtual Memory: 2271.00 MB used, 2271.00 MB peak
+[2018.04.14-12.18.24:202][800]LogMemory: Physical Memory: 4636.76 MB used,  3478.52 MB free, 8115.27 MB total
+[2018.04.14-12.18.24:202][800]LogMemory: Virtual Memory: 3219.30 MB used,  3478.52 MB free, 134217728.00 MB total
+[2018.04.14-12.18.24:202][800]LogMemory: 
+[2018.04.14-12.18.24:202][800]Allocator Stats for TBB: (not implemented)
+[2018.04.14-12.18.25:089][800]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.14-12.18.25:089][800]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.18.25:093][800]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.14-14.18.25
+[2018.04.14-12.18.25:094][800]LogWorld: Bringing up level for play took: 0.004462
+[2018.04.14-12.18.25:095][800]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.18.25:096][800]LogLoad: Took 1.123021 seconds to LoadMap(/Game/Map/Map_Level)
+[2018.04.14-12.18.26:255][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.26:302][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.18.28:553][169]LogSavePackage: Save=32.78ms
+[2018.04.14-12.18.28:553][169]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu5261DD774D3234056F21F994FE2EB3F4.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.18.28:558][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.18.28:573][169]LogFileHelpers: Saving map 'Map_MainMenu' took 0.178
+[2018.04.14-12.18.34:698][881]LogSavePackage: Save=32.36ms
+[2018.04.14-12.18.34:698][881]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuD775ACEC4E9FAAB9CB6B579B2782D983.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.18.34:702][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.18.34:718][881]LogFileHelpers: Saving map 'Map_MainMenu' took 0.178
+[2018.04.14-12.18.51:191][834]LogSavePackage: Save=34.26ms
+[2018.04.14-12.18.51:191][834]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu23C67BD74E6D02F94A2B8CB843FA5827.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.18.51:194][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.18.51:209][834]LogFileHelpers: Saving map 'Map_MainMenu' took 0.179
+[2018.04.14-12.19.01:281][ 19]LogSavePackage: Save=32.27ms
+[2018.04.14-12.19.01:282][ 19]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu3E6D408E4F26F8431DE2D3BB1805F742.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.19.01:286][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.19.01:301][ 19]LogFileHelpers: Saving map 'Map_MainMenu' took 0.183
+[2018.04.14-12.19.16:698][843]LogSavePackage: Save=33.34ms
+[2018.04.14-12.19.16:698][843]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuDC1254D7486A913332A94A859324F96D.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.19.16:701][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.19.16:716][843]LogFileHelpers: Saving map 'Map_MainMenu' took 0.179
+[2018.04.14-12.19.18:297][  9]LogSavePackage: Save=32.34ms
+[2018.04.14-12.19.18:297][  9]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu0B8AE1A5402AA490125D749955A17726.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap'
+[2018.04.14-12.19.18:301][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/Map/Map_MainMenu.umap
+[2018.04.14-12.19.31:920][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameInstance.SKEL_BP_GameInstance_C' ref from Metadata '/Game/Blueprints/BP_GameInstance.PackageMetaData'
+[2018.04.14-12.19.31:920][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameInstance.BP_GameInstance_C' ref from Metadata '/Game/Blueprints/BP_GameInstance.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.SKEL_BP_GameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.SKEL_BP_GameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.SKEL_BP_GameMode_C' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode_C' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:926][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:927][539]LogMetaData: Removing '/Game/02_Blueprints/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:936][539]LogMetaData: Removing '/Game/02_Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Character/BP_PlayerCharacter.PackageMetaData'
+[2018.04.14-12.19.31:966][539]LogSavePackage: Save=5.73ms
+[2018.04.14-12.19.31:966][539]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameInstance40137FD74C9D51C883EB79A1ABA3F6B7.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameInstance.uasset'
+[2018.04.14-12.19.31:974][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameInstance.uasset
+[2018.04.14-12.19.31:982][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/02_Blueprints/BP_GameMode" FILE="../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.04.14-12.19.31:998][539]LogSavePackage: Save=11.90ms
+[2018.04.14-12.19.31:998][539]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_GameModeA1B9D0F949C04EB6CC7F308B488DC811.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset'
+[2018.04.14-12.19.32:008][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset
+[2018.04.14-12.19.32:036][539]LogSavePackage: Save=18.66ms
+[2018.04.14-12.19.32:036][539]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/BP_PlayerCharacterEB1D74464A2FD4064D0D2DB895DF7077.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/Character/BP_PlayerCharacter.uasset'
+[2018.04.14-12.19.32:044][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/02_Blueprints/Character/BP_PlayerCharacter.uasset
+[2018.04.14-12.19.52:236][259]LogAIModule: Creating AISystem for world Map_Imports
+[2018.04.14-12.19.52:243][259]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.14-12.19.52:301][259]LogMetaData: Removing '/Game/03_Map/Map_MainMenu.SKEL_Map_MainMenu_C' ref from Metadata '/Game/Map/Map_MainMenu.PackageMetaData'
+[2018.04.14-12.19.52:301][259]LogMetaData: Removing '/Game/03_Map/Map_MainMenu.Map_MainMenu_C' ref from Metadata '/Game/Map/Map_MainMenu.PackageMetaData'
+[2018.04.14-12.19.52:301][259]LogMetaData: Removing '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Map/Map_MainMenu.PackageMetaData'
+[2018.04.14-12.19.52:476][259]LogSavePackage: Save=28.75ms
+[2018.04.14-12.19.52:476][259]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuB64FAB8B407DC59A1F8DE4AC3D2F5660.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.19.52:485][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.19.52:500][259]LogFileHelpers: Saving map 'Map_MainMenu' took 0.173
+[2018.04.14-12.19.52:626][259]LogSavePackage: Save=6.69ms
+[2018.04.14-12.19.52:626][259]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_Imports819A7003485B5D0011B4D99423F46A89.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_Imports.umap'
+[2018.04.14-12.19.52:634][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_Imports.umap
+[2018.04.14-12.19.52:635][259]LogFileHelpers: Saving map 'Map_Imports' took 0.133
+[2018.04.14-12.19.52:781][259]LogSavePackage: Save=7.08ms
+[2018.04.14-12.19.52:781][259]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_Level8D9A57754554CF2892BCE39A65D82789.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap'
+[2018.04.14-12.19.52:789][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap
+[2018.04.14-12.19.52:791][259]LogFileHelpers: Saving map 'Map_Level' took 0.153
+[2018.04.14-12.20.10:492][764]LogSavePackage: Save=148.67ms
+[2018.04.14-12.20.10:493][764]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu661246F24A6EA667297824823B680431.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.20.10:511][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.22.56:492][ 98]Cmd: TRANSACTION UNDO
+[2018.04.14-12.22.56:492][ 98]LogEditorTransaction: Undo Add Axis Mapping To Group
+[2018.04.14-12.26.32:713][534]LogSavePackage: Save=33.58ms
+[2018.04.14-12.26.32:713][534]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu047D72CA4EB8FDA32DB63D8BA2A9E86E.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.26.32:716][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.27.03:776][927]LogSavePackage: Save=158.33ms
+[2018.04.14-12.27.03:777][927]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu3BD1AA5F4B45C8E66F2A2FAFAB7E7DEE.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.27.03:793][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.27.17:513][633]LogSavePackage: Save=32.54ms
+[2018.04.14-12.27.17:513][633]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu8CAADBFC47E53E8558A7F2AF5A2BD85C.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.27.17:516][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.27.17:532][633]LogFileHelpers: Saving map 'Map_MainMenu' took 0.181
+[2018.04.14-12.27.19:152][812]LogSavePackage: Save=57.67ms
+[2018.04.14-12.27.19:152][812]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu6554FEE24C13EF44A145D58554932171.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.27.19:155][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.27.40:071][240]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.14-12.27.40:086][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/03_Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.27.40:086][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.14-12.27.40:087][240]PIE: New page: PIE session: Map_MainMenu (Apr 14, 2018, 4:27:40 PM)
+[2018.04.14-12.27.40:087][240]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_MainMenu
+[2018.04.14-12.27.40:088][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000971s)
+[2018.04.14-12.27.40:088][240]LogAIModule: Creating AISystem for world Map_MainMenu
+[2018.04.14-12.27.40:088][240]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2018.04.14-12.27.40:089][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_MainMenu.Map_MainMenu to /Game/03_Map/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.002012s)
+[2018.04.14-12.27.40:121][240]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.14-12.27.40:139][240]LogInit: FAudioDevice initialized.
+[2018.04.14-12.27.40:182][240]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.27.40:184][240]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2018.04.14-14.27.40
+[2018.04.14-12.27.40:184][240]LogWorld: Bringing up level for play took: 0.001203
+[2018.04.14-12.27.40:190][240]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_MainMenu 0.192
+[2018.04.14-12.27.40:191][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/03_Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.27.45:287][704]LogNet: Browse: /Game/03_Map/Map_Level
+[2018.04.14-12.27.45:287][704]LogLoad: LoadMap: /Game/03_Map/Map_Level
+[2018.04.14-12.27.45:373][704]Cmd: MEM
+[2018.04.14-12.27.45:449][704]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-12.27.45:449][704]LogMemory: Process Physical Memory: 1016.14 MB used, 1318.54 MB peak
+[2018.04.14-12.27.45:449][704]LogMemory: Process Virtual Memory: 2160.76 MB used, 2465.04 MB peak
+[2018.04.14-12.27.45:449][704]LogMemory: Physical Memory: 5008.45 MB used,  3106.83 MB free, 8115.27 MB total
+[2018.04.14-12.27.45:449][704]LogMemory: Virtual Memory: 3168.34 MB used,  3106.83 MB free, 134217728.00 MB total
+[2018.04.14-12.27.45:449][704]LogMemory: 
+[2018.04.14-12.27.45:449][704]Allocator Stats for TBB: (not implemented)
+[2018.04.14-12.27.45:449][704]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.14-12.27.45:451][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001884s)
+[2018.04.14-12.27.45:453][704]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.14-12.27.45:454][704]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2018.04.14-12.27.45:454][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.004832s)
+[2018.04.14-12.27.45:454][704]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.14-12.27.45:460][704]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.14-14.27.45
+[2018.04.14-12.27.45:460][704]LogWorld: Bringing up level for play took: 0.004347
+[2018.04.14-12.27.45:462][704]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.14-12.27.45:464][704]LogLoad: Took 0.177254 seconds to LoadMap(/Game/03_Map/UEDPIE_0_Map_Level)
+[2018.04.14-12.27.47:075][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/03_Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.27.47:124][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu' with GeneratedClass '/Game/03_Map/Map_MainMenu.Map_MainMenu_C' with ClassGeneratedBy '/Game/03_Map/Map_MainMenu.Map_MainMenu:PersistentLevel.Map_MainMenu'
+[2018.04.14-12.28.22:276][588]LogSavePackage: Save=36.13ms
+[2018.04.14-12.28.22:276][588]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenuCCBDA70E40E3597BE2825D9385350210.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.28.22:281][588]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.28.30:356][521]LogSavePackage: Save=30.78ms
+[2018.04.14-12.28.30:356][521]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Map_MainMenu5460BF644CE466997DA8DEA20575C065.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap'
+[2018.04.14-12.28.30:359][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/03_Map/Map_MainMenu.umap
+[2018.04.14-12.28.55:022][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:023][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:023][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:ExecuteUbergraph_Widget_MainMenu' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:023][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PCredits_Button_Back' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:023][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PMain_Button_Credits' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:023][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PMain_Button_Options' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PMain_Button_Play' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PMain_Button_Quit' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:POptions_Button_Back' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PQuit_Button_No' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:PQuit_Button_Yes' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:024][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.Widget_MainMenu_C:Switcher' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PCredits_Button_Back' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PMain_Button_Credits' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PMain_Button_Options' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PMain_Button_Play' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PMain_Button_Quit' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:POptions_Button_Back' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PQuit_Button_No' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:PQuit_Button_Yes' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:Switcher' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PQuit_Button_No_K2Node_ComponentBoundEvent_7_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PQuit_Button_Yes_K2Node_ComponentBoundEvent_6_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:025][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PMain_Button_Quit_K2Node_ComponentBoundEvent_5_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:026][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__POptions_Button_Back_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:026][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PCredits_Button_Back_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:026][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PMain_Button_Credits_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:026][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PMain_Button_Options_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:026][265]LogMetaData: Removing '/Game/01_Menu/Widget/Widget_MainMenu.SKEL_Widget_MainMenu_C:BndEvt__PMain_Button_Play_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/01_MainMenu/Widget/Widget_MainMenu.PackageMetaData'
+[2018.04.14-12.28.55:389][265]LogSavePackage: Save=302.76ms
+[2018.04.14-12.28.55:389][265]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenu2D31BEE042DE7BD5A6059C8BD3085F7F.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_Menu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.28.55:422][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_Menu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.28.55:472][265]LogSavePackage: Save=10.71ms
+[2018.04.14-12.28.55:473][265]LogSavePackage: Moving '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Saved/Widget_MainMenuE29D59444224500AD22934BCFDF85FD4.tmp' to '../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset'
+[2018.04.14-12.28.55:504][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Audr/Documents/GamJam/LudumDare/UE4/LudumDare_2018/Content/01_MainMenu/Widget/Widget_MainMenu.uasset
+[2018.04.14-12.29.35:450][659]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.027 s
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: 
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 248]
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: Cannot remove redirection from /Game/01_MainMenu/Widget/Widget_MainMenu.Default__Widget_MainMenu_C, it was not registered
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: Stack: 
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000002033E36
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001DBC2D2
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001DD4746
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000016B16D3
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-AssetRegistry.dll!0x0000000003515648
+[2018.04.14-12.29.35:450][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FAA5D7FB
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FAA6655E
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA25E149
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA4D3352
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA454BE2
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA4577F9
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA4CB3E5
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000128B967
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000012B74D4
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000010D42BC
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000010A7145
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000001141452
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000001129C92
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000111B68F
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200B759
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001FF3EE1
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200D5BB
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001FEF042
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: USER32.dll!0x0000000064D3B85D
+[2018.04.14-12.29.35:451][659]LogOutputDevice: Error: USER32.dll!0x0000000064D3B1EF
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200DC29
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000114C576
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000010DDE33
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FA5610EC
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000FAA5CA83
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC06490D
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC06CC86
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EBFE3C9E
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EBFE7109
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC068EB5
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC066B27
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC0CA2D9
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EBFE4012
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EBFE73D9
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000EC069BC5
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000128B967
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000012B74D4
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000010D42BC
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000010A7145
+[2018.04.14-12.29.35:452][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000001141452
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000001129C92
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000111B68F
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200B759
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001FF3EE1
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200D5BB
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000001FEF042
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: USER32.dll!0x0000000064D3B85D
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: USER32.dll!0x0000000064D3B1EF
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000200DCC6
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD624BE2
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD633970
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD6339EA
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD6402D9
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD641C47
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: KERNEL32.DLL!0x00000000650D1FE4
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: ntdll.dll!0x000000006709EFC1
+[2018.04.14-12.29.35:453][659]LogOutputDevice: Error: 
+[2018.04.14-12.29.35:460][659]LogStats:                SubmitErrorReport -  0.000 s
