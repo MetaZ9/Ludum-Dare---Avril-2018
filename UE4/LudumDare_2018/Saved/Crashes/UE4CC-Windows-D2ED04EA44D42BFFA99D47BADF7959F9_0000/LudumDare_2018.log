@@ -3228,7 +3228,3 @@ Make sure 'Widget_Inventaire' has been compiled for  Set Object_Image
 [2018.04.21-14.44.28:904][134]LogOutputDevice: Error: ntdll.dll!0x00000000A2CBF061
 [2018.04.21-14.44.28:904][134]LogOutputDevice: Error: 
 [2018.04.21-14.44.28:906][134]LogStats:                SubmitErrorReport -  0.000 s
-[2018.04.21-14.44.35:724][134]LogStats:                    SendNewReport -  6.818 s
-[2018.04.21-14.44.35:724][134]LogStats:             FDebug::EnsureFailed -  7.657 s
-[2018.04.21-14.44.35:758][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
-[2018.04.21-14.44.35:830][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
