@@ -34,7 +34,7 @@
 		<EpicAccountId>eb0bce5582ea45ccb8bd9b25361f2d34</EpicAccountId>
 		<CallStack />
 		<SourceContext />
-		<UserDescription />
+		<UserDescription>Sent in the unattended mode</UserDescription>
 		<UserActivityHint>Layout=&quot;AssetEditorToolkit_Toolbar&quot; Label=&quot;Toolbar&quot; Content=SBorder</UserActivityHint>
 		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIResourceManager.cpp] [Line: 733] Slate RHI Error - Invalid Texture2D &apos;1Dto2DIndex&apos;.</ErrorMessage>
 		<CrashDumpMode>0</CrashDumpMode>
