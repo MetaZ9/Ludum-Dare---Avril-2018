@@ -1,0 +1,1064 @@
+﻿Log file open, 04/21/18 17:48:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LudumDare_2018
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2074675272) SRandInit(2074675272).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176541
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/MyPrograms/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.21-15.49.00:329][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-15.49.00:329][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.21-15.49.00:338][  0]LogInit: Computer: SMORIN
+[2018.04.21-15.49.00:338][  0]LogInit: User: SMorin
+[2018.04.21-15.49.00:338][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.21-15.49.00:338][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.04.21-15.49.00:339][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.21-15.49.00:339][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-15.49.00:339][  0]LogMemory: Process Physical Memory: 280.50 MB used, 280.50 MB peak
+[2018.04.21-15.49.00:339][  0]LogMemory: Process Virtual Memory: 286.37 MB used, 286.37 MB peak
+[2018.04.21-15.49.00:339][  0]LogMemory: Physical Memory: 4701.43 MB used,  3389.09 MB free, 8090.52 MB total
+[2018.04.21-15.49.00:339][  0]LogMemory: Virtual Memory: 705.24 MB used,  3389.09 MB free, 134217728.00 MB total
+[2018.04.21-15.49.00:847][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.21-15.49.00:847][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.21-15.49.00:851][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.21-15.49.00:851][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.04.21-15.49.01:564][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.21-15.49.01:628][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.04.21-15.49.01:628][  0]LogD3D11RHI:       2010/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.21-15.49.01:634][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.21-15.49.01:634][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.21-15.49.01:637][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.21-15.49.01:637][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.21-15.49.01:637][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.21-15.49.01:643][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.21-15.49.01:643][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.04.21-15.49.01:643][  0]LogWindows: EnumDisplayDevices:
+[2018.04.21-15.49.01:643][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.21-15.49.01:643][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.21-15.49.01:643][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.21-15.49.01:643][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.21-15.49.01:643][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.04.21-15.49.01:643][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.21-15.49.01:643][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.21-15.49.01:643][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.21-15.49.01:681][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.21-15.49.01:701][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.21-15.49.01:702][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Intermediate/Shaders/WorkingDirectory/2008/).
+[2018.04.21-15.49.01:702][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SMorin/AppData/Local/Temp/UnrealShaderWorkingDir/52C73FC54CA890226D6CFF8646905078/'.
+[2018.04.21-15.49.01:702][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.21-15.49.02:586][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.21-15.49.02:633][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.21-15.49.02:676][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.21-15.49.02:719][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.21-15.49.02:763][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.21-15.49.02:806][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.21-15.49.02:848][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.21-15.49.02:892][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.21-15.49.02:928][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.21-15.49.02:970][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.21-15.49.03:012][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.21-15.49.03:054][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.21-15.49.03:096][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.21-15.49.03:139][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.21-15.49.03:182][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.21-15.49.03:269][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.21-15.49.03:269][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.21-15.49.03:299][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.21-15.49.03:380][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.21-15.49.03:404][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.21-15.49.03:446][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.21-15.49.03:489][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.21-15.49.03:531][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.21-15.49.03:572][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.21-15.49.03:572][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.21-15.49.03:944][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: Loaded boot cache 0.10s 97MB C:/Users/SMorin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SMorin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.21-15.49.04:039][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.21-15.49.04:056][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.21-15.49.04:070][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SMorin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.21-15.49.04:079][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.21-15.49.04:079][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.21-15.49.04:080][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-15.49.04:080][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-15.49.04:361][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.04.21-15.49.04:471][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-15.49.04:623][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.21-15.49.04:875][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.21-15.49.04:910][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.21-15.49.04:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.21-15.49.04:910][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.21-15.49.04:910][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.21-15.49.04:910][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.21-15.49.05:299][  0]LogNetVersion: LudumDare_2018 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3004475821)
+[2018.04.21-15.49.05:482][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.022901 seconds
+[2018.04.21-15.49.05:487][  0]LogUObjectArray: 35826 objects as part of root set at end of initial load.
+[2018.04.21-15.49.05:487][  0]LogUObjectAllocator: 7529328 out of 0 bytes used by permanent object pool.
+[2018.04.21-15.49.05:487][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.21-15.49.05:530][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.21-15.49.07:937][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.21-15.49.07:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.21-15.49.08:622][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.21-15.49.08:970][  0]SourceControl: Source control is disabled
+[2018.04.21-15.49.08:970][  0]SourceControl: Source control is disabled
+[2018.04.21-15.49.09:008][  0]SourceControl: Source control is disabled
+[2018.04.21-15.49.09:046][  0]SourceControl: Source control is disabled
+[2018.04.21-15.49.09:521][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.21-15.49.09:720][  0]LogOcInput: OculusInput pre-init called
+[2018.04.21-15.49.09:941][  0]LogEngine: Initializing Engine...
+[2018.04.21-15.49.09:965][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.04.21-15.49.10:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-15.49.10:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-15.49.10:309][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.21-15.49.10:319][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-15.49.10:452][  0]LogInit: FAudioDevice initialized.
+[2018.04.21-15.49.11:132][  0]LogDerivedDataCache: Saved boot cache 0.68s 97MB C:/Users/SMorin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.21-15.49.11:158][  0]LogInit: Texture streaming: Enabled
+[2018.04.21-15.49.11:242][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.21-15.49.11:426][  0]LogInit: Transaction tracking system initialized
+[2018.04.21-15.49.11:680][  0]BlueprintLog: New page: Editor Load
+[2018.04.21-15.49.12:391][  0]LocalizationService: Localization service is disabled
+[2018.04.21-15.49.12:954][  0]LogConsoleResponse: Display: 
+[2018.04.21-15.49.13:131][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.21-15.49.13:131][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.21-15.49.13:131][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.21-15.49.13:700][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/' took 0.01s
+[2018.04.21-15.49.13:991][  0]SourceControl: Source control is disabled
+[2018.04.21-15.49.13:991][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/Map/Map_Imports.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-15.49.13:991][  0]LogEditorServer: Warning: Can't find file '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/Map/Map_Imports.umap'
+[2018.04.21-15.49.13:991][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-15.49.14:038][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.186ms to complete.
+[2018.04.21-15.49.14:038][  0]LogFileHelpers: Loading map 'Map_Imports' took 0.048
+[2018.04.21-15.49.14:092][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.21-15.49.14:093][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.21-15.49.14:266][  0]LogCollectionManager: Loaded 0 collections in 0.001328 seconds
+[2018.04.21-15.49.14:340][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/Collections/' took 0.01s
+[2018.04.21-15.49.14:340][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/Developers/SMorin/Collections/' took 0.01s
+[2018.04.21-15.49.14:340][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/Collections/' took 0.01s
+[2018.04.21-15.49.14:340][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.21-15.49.14:349][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2389 classes and 505 folders.
+[2018.04.21-15.49.14:402][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.21-15.49.14:452][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.21-15.49.14:466][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-15.49.14:470][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.21-15.49.14:479][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.21-15.49.14:592][  0]LogRenderer: Reallocating scene render targets to support 1528x468 Format 9 NumSamples 1 (Frame:1).
+[2018.04.21-15.49.14:776][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.21-15.49.14:777][  0]LogLoad: (Engine Initialization) Total time: 16.07 seconds
+[2018.04.21-15.49.14:777][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.21-15.49.14:777][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.21-15.49.14:777][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.21-15.49.14:810][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.21-15.49.14:865][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.49.14:883][  1]LogAssetRegistry: Asset discovery search completed in 10.5441 seconds
+[2018.04.21-15.49.14:884][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.21-15.49.14:884][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.04.21-15.49.15:810][ 84]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.51.10:818][549]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.21-15.51.19:898][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2018.04.21-15.51.20:594][231]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-15.51.22:487][400]LogRenderer: Reallocating scene render targets to support 1528x796 Format 9 NumSamples 1 (Frame:1).
+[2018.04.21-15.52.06:204][458]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.21-15.53.37:751][359]LogSavePackage: Save=34.79ms
+[2018.04.21-15.53.37:751][359]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/Struct_Objects5A8E30D942FC9EE309D26F92BCDA963A.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/Struct_Objects.uasset'
+[2018.04.21-15.53.37:755][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/Struct_Objects.uasset
+[2018.04.21-15.53.49:348][743]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.21-15.54.05:541][660]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.21-15.54.06:166][734]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.54.07:139][809]LogSavePackage: Save=10.93ms
+[2018.04.21-15.54.07:139][809]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant2B4327F142E7AE167E990D9469726725.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.54.07:142][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.54.58:887][825]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.54.59:595][875]LogSavePackage: Save=16.95ms
+[2018.04.21-15.54.59:595][875]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantA9F612E049BDB25BABA6A4A616762DFB.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.54.59:598][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.55.04:555][451]LogSavePackage: Save=18.12ms
+[2018.04.21-15.55.04:555][451]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant8977546842F9A84EDCB41A9C737A6CD1.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.55.04:557][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.55.30:064][470]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.55.30:800][520]LogSavePackage: Save=16.28ms
+[2018.04.21-15.55.30:800][520]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant1EBEFE074884C992A8D9E5A2F172711F.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.55.30:804][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.55.44:211][111]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.55.44:888][150]LogSavePackage: Save=16.65ms
+[2018.04.21-15.55.44:888][150]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant23B512E747B705C3527488AE213F566C.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.55.44:891][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.56.30:686][409]LogBlueprint: Error: [Compiler BP_GameInstance] In use pin  Out Row Quantity At Start  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-15.56.30:687][409]LogBlueprint: Warning: [Compiler BP_GameInstance] [0451.98] Compile of BP_GameInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/02_Blueprints/BP_GameInstance.BP_GameInstance)
+[2018.04.21-15.56.30:877][409]LoadErrors: Error: /Game/02_Blueprints/BP_GameInstance : Failed import for IntProperty /Game/02_Blueprints/DataList/Struct_Objects.Struct_Objects:QuantityAtStart_19_FAA0CAAC4707FCAAAE59F59C1AB8C3F2 Referenced by export Function /Game/02_Blueprints/BP_GameInstance.BP_GameInstance_C:ExecuteUbergraph_BP_GameInstance
+[2018.04.21-15.56.57:477][182]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.57.08:206][415]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-15.57.08:912][450]LogSavePackage: Save=33.38ms
+[2018.04.21-15.57.08:912][450]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant3BDF0F004126E2526A1EFD87585D3F1B.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-15.57.08:916][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-15.58.14:216][770]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-15.58.15:119][826]LogSavePackage: Save=27.24ms
+[2018.04.21-15.58.15:119][826]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile06231F704D65F16C9365479C5C468A94.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-15.58.15:123][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-15.58.44:950][310]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.01.55:703][328]BlueprintLog: New page: Compile SC_0Pousse
+[2018.04.21-16.01.55:723][328]LogBlueprint: Error: [Compiler SC_Pousse_Deplacement] In use pin  Owner  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-16.01.55:723][328]LogBlueprint: Error: [Compiler SC_Pousse_Deplacement] In use pin  Owner  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-16.01.55:723][328]LogBlueprint: Error: [Compiler SC_Pousse_Deplacement] In use pin  Owner  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.04.21-16.01.55:733][328]LogBlueprint: Warning: [Compiler SC_Pousse_Deplacement] [0777.02] Compile of SC_Pousse_Deplacement failed. 3 Fatal Issue(s) 0 Warning(s) [in 29 ms] (/Game/02_Blueprints/Components/SC_Pousse_Deplacement.SC_Pousse_Deplacement)
+[2018.04.21-16.01.56:401][362]LogSavePackage: Save=34.55ms
+[2018.04.21-16.01.56:401][362]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/SC_0Pousse4D4D536C4210102F48DE7E9184E13D94.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_0Pousse.uasset'
+[2018.04.21-16.01.56:405][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_0Pousse.uasset
+[2018.04.21-16.02.10:389][943]LogSavePackage: Save=35.74ms
+[2018.04.21-16.02.10:390][943]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/SC_Pousse_Deplacement9B38A712457776D7DC7DA4B5F7A5ECE6.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_Pousse_Deplacement.uasset'
+[2018.04.21-16.02.10:393][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_Pousse_Deplacement.uasset
+[2018.04.21-16.03.21:537][280]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.03.22:546][353]LogSavePackage: Save=27.14ms
+[2018.04.21-16.03.22:547][353]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant8D8FF2314F96C62B650013B405FE6702.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.03.22:550][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.04.19:560][108]BlueprintLog: New page: Compile BPI_Soil
+[2018.04.21-16.04.20:369][198]LogSavePackage: Save=5.54ms
+[2018.04.21-16.04.20:369][198]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_SoilB9632CC5495CA2E40D986CBC27EEC1CC.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset'
+[2018.04.21-16.04.20:373][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset
+[2018.04.21-16.04.29:303][265]LogSavePackage: Save=4.52ms
+[2018.04.21-16.04.29:303][265]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_Soil57DB968C4256CEBC56D8F998C426F6CD.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset'
+[2018.04.21-16.04.29:307][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset
+[2018.04.21-16.04.38:243][319]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.04.39:234][397]LogSavePackage: Save=28.90ms
+[2018.04.21-16.04.39:235][397]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile5F30903F4AEA140886980C9C34B54CC8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.04.39:238][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.04.57:024][501]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.21-16.05.08:346][821]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.05.25:864][787]BlueprintLog: New page: Compile BPI_Soil
+[2018.04.21-16.05.26:556][862]LogSavePackage: Save=4.87ms
+[2018.04.21-16.05.26:556][862]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_SoilA58A53AF44A2EFBD8C80E3A12F232498.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset'
+[2018.04.21-16.05.26:557][862]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Soil.uasset
+[2018.04.21-16.05.54:539][ 95]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.05.55:405][156]LogSavePackage: Save=32.50ms
+[2018.04.21-16.05.55:405][156]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTileF0605E294B312ABFC1D81AB765D7C442.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.05.55:408][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.06.41:028][411]LogMetaData: Removing '/Game/02_Blueprints/Interfaces/BPI_Pousse.BPI_Pousse_C' ref from Metadata '/Game/02_Blueprints/Interfaces/BPI_Seed_Pousse.PackageMetaData'
+[2018.04.21-16.06.41:028][411]LogMetaData: Removing '/Game/02_Blueprints/Interfaces/BPI_Pousse.BPI_Pousse:SEED_GrowinUp.K2Node_FunctionEntry_0' ref from Metadata '/Game/02_Blueprints/Interfaces/BPI_Seed_Pousse.PackageMetaData'
+[2018.04.21-16.06.41:028][411]LogMetaData: Removing '/Game/02_Blueprints/Interfaces/BPI_Pousse.SKEL_BPI_Pousse_C' ref from Metadata '/Game/02_Blueprints/Interfaces/BPI_Seed_Pousse.PackageMetaData'
+[2018.04.21-16.06.41:100][411]LogSavePackage: Save=3.78ms
+[2018.04.21-16.06.41:100][411]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_Pousse33FA7A10458FC61DB4A86A811C512A85.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Pousse.uasset'
+[2018.04.21-16.06.41:104][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Pousse.uasset
+[2018.04.21-16.06.41:408][411]LogSavePackage: Save=3.86ms
+[2018.04.21-16.06.41:408][411]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/SC_0Pousse42A91BAF40DCD7BF049995A47A72BEE7.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_0Pousse.uasset'
+[2018.04.21-16.06.41:411][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_0Pousse.uasset
+[2018.04.21-16.06.41:468][411]LogSavePackage: Save=40.05ms
+[2018.04.21-16.06.41:468][411]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/SC_Pousse_Deplacement1E0A1EFD48499783F41E128FD42A1425.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_Pousse_Deplacement.uasset'
+[2018.04.21-16.06.41:471][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Components/SC_Pousse_Deplacement.uasset
+[2018.04.21-16.07.35:005][728]LogMetaData: Removing '/Game/02_Blueprints/Interfaces/BPI_Plant.SKEL_BPI_Plant_C' ref from Metadata '/Game/02_Blueprints/Interfaces/BPI_.PackageMetaData'
+[2018.04.21-16.07.35:005][728]LogMetaData: Removing '/Game/02_Blueprints/Interfaces/BPI_Plant.BPI_Plant_C' ref from Metadata '/Game/02_Blueprints/Interfaces/BPI_.PackageMetaData'
+[2018.04.21-16.07.35:028][728]LogSavePackage: Save=2.66ms
+[2018.04.21-16.07.35:028][728]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_Plant6DB48008471FB99A62E7C28B95EE7794.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset'
+[2018.04.21-16.07.35:032][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset
+[2018.04.21-16.07.46:488][ 17]BlueprintLog: New page: Compile BPI_Plant
+[2018.04.21-16.07.47:099][ 81]LogSavePackage: Save=27.36ms
+[2018.04.21-16.07.47:099][ 81]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_Plant55D19211408506681666F2A1D04748A2.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset'
+[2018.04.21-16.07.47:103][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset
+[2018.04.21-16.08.02:035][866]BlueprintLog: New page: Compile BPI_Plant
+[2018.04.21-16.08.02:748][945]LogSavePackage: Save=4.04ms
+[2018.04.21-16.08.02:748][945]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BPI_PlantA45DECD94E72E79B743B95888AFDA4C8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset'
+[2018.04.21-16.08.02:752][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Interfaces/BPI_Plant.uasset
+[2018.04.21-16.11.41:152][931]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.11.42:069][990]LogSavePackage: Save=29.66ms
+[2018.04.21-16.11.42:069][990]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant69E0123046E326724ACF24BA5EAFAB2A.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.11.42:073][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.13.46:906][774]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.13.47:895][839]LogSavePackage: Save=29.46ms
+[2018.04.21-16.13.47:895][839]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant63582AFF4F25BDD2784AF59A8CA3DA57.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.13.47:900][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.13.53:780][520]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.13.54:754][589]LogSavePackage: Save=30.46ms
+[2018.04.21-16.13.54:754][589]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantCC5DF3C541C5E2217BA7B0B16773B130.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.13.54:758][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.16.03:575][966]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.16.04:231][  4]LogSavePackage: Save=29.30ms
+[2018.04.21-16.16.04:231][  4]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant2FBD89444FA6F25F78C077A9AB6540E1.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.16.04:234][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.16.12:968][ 27]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.17.33:055][272]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.17.34:138][355]LogSavePackage: Save=36.94ms
+[2018.04.21-16.17.34:138][355]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTileAC137C6041FDBA078ED935A093CFAA6E.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.17.34:141][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.17.51:418][310]LogSavePackage: Save=39.92ms
+[2018.04.21-16.17.51:418][310]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile74E25D71410C3E3151E392869272CC34.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.17.51:422][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.17.52:758][465]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.18.09:769][446]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.18.10:590][478]LogSavePackage: Save=59.00ms
+[2018.04.21-16.18.10:590][478]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant1B7A178D4F4785518B090EA63479E564.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.18.10:594][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.19.38:352][582]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.19.39:225][629]LogSavePackage: Save=27.72ms
+[2018.04.21-16.19.39:225][629]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant495A75854916C44D18CF729FB41B3018.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.19.39:228][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.19.43:624][143]LogSavePackage: Save=28.65ms
+[2018.04.21-16.19.43:624][143]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant90A012B844E92690B74426984176B583.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.19.43:626][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.20.52:937][237]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.20.54:155][328]LogSavePackage: Save=37.86ms
+[2018.04.21-16.20.54:155][328]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantB142B7C54185D082B5EC3BBC671974C5.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.20.54:159][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.20.55:432][471]LogSavePackage: Save=35.60ms
+[2018.04.21-16.20.55:432][471]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant09FAE64941E9A9BED0B1FEB6AD3F0316.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.20.55:434][471]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.21.20:431][387]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.21.21:219][432]LogSavePackage: Save=42.73ms
+[2018.04.21-16.21.21:219][432]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTileE612BA504921AE08E3F6A78C8B84C629.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.21.21:223][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.22.02:903][315]LogSavePackage: Save=3.10ms
+[2018.04.21-16.22.02:903][315]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/DataT_Objects29BDEC9642011EA7BFC61F8D0E2485D8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset'
+[2018.04.21-16.22.02:906][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset
+[2018.04.21-16.22.13:744][592]LogSavePackage: Save=1.84ms
+[2018.04.21-16.22.13:744][592]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/DataT_ObjectsDE4D6031498CCB66F41E9A94652AF630.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset'
+[2018.04.21-16.22.13:748][592]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset
+[2018.04.21-16.22.21:789][489]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.22.23:206][489]LogSavePackage: Save=38.92ms
+[2018.04.21-16.22.23:206][489]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant3BBEF4084270E264C1354CB4B77599F8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.22.23:211][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.22.23:268][489]LogSavePackage: Save=46.32ms
+[2018.04.21-16.22.23:268][489]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile1E7FC398432BDC9F759D22BE0D21C7DC.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.22.23:273][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.22.23:274][489]Cmd: MAP LOAD FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-16.22.23:274][489]LightingResults: New page: Lighting Build
+[2018.04.21-16.22.23:311][489]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2018.04.21-16.22.23:312][489]LoadErrors: New page: Loading map: Map_Level.umap
+[2018.04.21-16.22.23:313][489]MapCheck: New page: Map Check
+[2018.04.21-16.22.23:313][489]LightingResults: New page: Lighting Build
+[2018.04.21-16.22.23:370][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-16.22.23:430][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-16.22.23:491][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.747ms to complete.
+[2018.04.21-16.22.23:491][489]LogFileHelpers: Loading map 'Map_Level' took 0.218
+[2018.04.21-16.22.38:322][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.22.38:421][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.22.38:421][898]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.21-16.22.38:427][898]LogPlayLevel: [PlayLevel] Compiling BP_Plant before play...
+[2018.04.21-16.22.38:437][898]LogPlayLevel: [PlayLevel]   Compiling SC_0Pousse as a dependent...
+[2018.04.21-16.22.38:439][898]LogPlayLevel: [PlayLevel]   Compiling SC_Pousse_Deplacement as a dependent...
+[2018.04.21-16.22.38:663][898]LogPlayLevel: PlayLevel: Blueprint regeneration took 241 ms (3 blueprints)
+[2018.04.21-16.22.54:094][306]BlueprintLog: New page: Compile BP_GameInstance
+[2018.04.21-16.22.55:353][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/02_Blueprints/BP_GameInstance" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameInstance.uasset" SILENT=true
+[2018.04.21-16.22.55:388][349]LogSavePackage: Save=20.85ms
+[2018.04.21-16.22.55:388][349]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_GameInstanceB07EB071407B970B41333E8324F6F0B5.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameInstance.uasset'
+[2018.04.21-16.22.55:392][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameInstance.uasset
+[2018.04.21-16.23.34:931][789]LogEditorViewport: Clicking on Actor (LMB): BP_SoilTile_C (BP_SoilTile2)
+[2018.04.21-16.23.46:192][723]Cmd: DELETE
+[2018.04.21-16.23.46:192][723]Cmd: ACTOR DELETE
+[2018.04.21-16.23.46:258][723]LogEditorActor: Deleted Actor: BP_SoilTile_C
+[2018.04.21-16.23.46:284][723]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.04.21-16.23.48:740][916]LogEditorViewport: Clicking on Actor (LMB): BP_SoilTile_C (BP_SoilTile3)
+[2018.04.21-16.23.49:120][945]Cmd: DELETE
+[2018.04.21-16.23.49:120][945]Cmd: ACTOR DELETE
+[2018.04.21-16.23.49:121][945]LogEditorActor: Deleted Actor: BP_SoilTile_C
+[2018.04.21-16.23.49:146][945]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.04.21-16.23.50:124][ 31]LogEditorViewport: Clicking on Actor (LMB): BP_SoilTile_C (BP_SoilTile)
+[2018.04.21-16.23.59:503][787]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile2)
+[2018.04.21-16.24.00:824][895]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile)
+[2018.04.21-16.24.13:038][878]LogSavePackage: Save=192.69ms
+[2018.04.21-16.24.13:038][878]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/Map_Level64A29D0B4A319DD99D7D288CA89F3FB7.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap'
+[2018.04.21-16.24.13:042][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap
+[2018.04.21-16.24.14:816][995]LogSavePackage: Save=192.36ms
+[2018.04.21-16.24.14:816][995]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/Map_LevelA04D02F3456D91B7172803BF146B338D.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap'
+[2018.04.21-16.24.14:818][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/03_Map/Map_Level.umap
+[2018.04.21-16.26.06:144][776]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.21-16.27.09:317][ 88]BlueprintLog: New page: Compile BP_GameMode
+[2018.04.21-16.27.10:266][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/02_Blueprints/BP_GameMode" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.04.21-16.27.10:329][121]LogSavePackage: Save=49.17ms
+[2018.04.21-16.27.10:329][121]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_GameModeCFA47214431D5768CB3DD9B86E5103FF.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset'
+[2018.04.21-16.27.10:333][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/BP_GameMode.uasset
+[2018.04.21-16.27.22:911][567]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.27.22:926][567]LogBlueprint: Warning: ExposeOnSpawn ambiguity. Property 'ByteProperty /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:Seed Name', MetaData 'True', Flag 'False'
+[2018.04.21-16.27.25:962][752]LogSavePackage: Save=36.30ms
+[2018.04.21-16.27.25:962][752]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant4E7CCF3744EEC842467AA0A6AC2E5B4A.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.27.25:966][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.29.10:788][746]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.21-16.30.34:835][281]LogSavePackage: Save=52.08ms
+[2018.04.21-16.30.34:835][281]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantAA82CC0D45CE450DF79392947E0CA1E8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.30.34:838][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.30.36:651][468]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.30.38:753][526]LogSavePackage: Save=84.99ms
+[2018.04.21-16.30.38:753][526]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantBC01A96A4656743A2421C09034520E45.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.30.38:755][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.30.42:430][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.30.42:464][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.42:464][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.30.42:465][932]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:30:42 PM)
+[2018.04.21-16.30.42:466][932]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.30.42:476][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009934s)
+[2018.04.21-16.30.42:476][932]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.30.42:477][932]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2018.04.21-16.30.42:477][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.011375s)
+[2018.04.21-16.30.42:504][932]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.30.42:534][932]LogInit: FAudioDevice initialized.
+[2018.04.21-16.30.42:591][932]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.30.42:597][932]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.30.42
+[2018.04.21-16.30.42:598][932]LogWorld: Bringing up level for play took: 0.004242
+[2018.04.21-16.30.42:599][932]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.30.42:639][932]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.04.21-16.30.42:756][932]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 1.162
+[2018.04.21-16.30.42:757][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.48:401][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.48:467][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.54:516][107]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.30.54:547][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.54:547][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.30.54:547][107]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:30:54 PM)
+[2018.04.21-16.30.54:548][107]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.30.54:556][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008782s)
+[2018.04.21-16.30.54:557][107]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.30.54:557][107]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.04.21-16.30.54:558][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009925s)
+[2018.04.21-16.30.54:583][107]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.30.54:608][107]LogInit: FAudioDevice initialized.
+[2018.04.21-16.30.54:654][107]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.30.54:660][107]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.30.54
+[2018.04.21-16.30.54:661][107]LogWorld: Bringing up level for play took: 0.005399
+[2018.04.21-16.30.54:662][107]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.30.54:668][107]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 1.073
+[2018.04.21-16.30.54:668][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.56:544][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.30.56:607][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.31.04:853][160]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.31.04:882][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.31.04:882][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.31.04:882][160]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:31:04 PM)
+[2018.04.21-16.31.04:883][160]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.31.04:893][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009026s)
+[2018.04.21-16.31.04:893][160]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.31.04:893][160]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.04.21-16.31.04:893][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009901s)
+[2018.04.21-16.31.04:920][160]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.31.04:943][160]LogInit: FAudioDevice initialized.
+[2018.04.21-16.31.04:986][160]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.31.04:991][160]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.31.04
+[2018.04.21-16.31.04:992][160]LogWorld: Bringing up level for play took: 0.003932
+[2018.04.21-16.31.04:993][160]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.31.04:996][160]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 458
+[2018.04.21-16.31.04:996][160]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.31.05:087][160]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.31.37:842][160]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 32.248
+[2018.04.21-16.31.37:844][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.31.41:884][491]LogNet: Browse: /Game/03_Map/Map_Level
+[2018.04.21-16.31.41:895][491]LogLoad: LoadMap: /Game/03_Map/Map_Level
+[2018.04.21-16.31.41:928][491]Cmd: MEM
+[2018.04.21-16.31.41:950][491]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-16.31.41:950][491]LogMemory: Process Physical Memory: 1876.80 MB used, 1961.40 MB peak
+[2018.04.21-16.31.41:950][491]LogMemory: Process Virtual Memory: 3641.60 MB used, 3641.60 MB peak
+[2018.04.21-16.31.41:950][491]LogMemory: Physical Memory: 5847.92 MB used,  2242.61 MB free, 8090.52 MB total
+[2018.04.21-16.31.41:950][491]LogMemory: Virtual Memory: 4606.01 MB used,  2242.61 MB free, 134217728.00 MB total
+[2018.04.21-16.31.41:950][491]LogMemory: 
+[2018.04.21-16.31.41:951][491]Allocator Stats for TBB: (not implemented)
+[2018.04.21-16.31.41:951][491]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.31.41:960][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008862s)
+[2018.04.21-16.31.41:960][491]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.31.41:960][491]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.04.21-16.31.41:960][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009805s)
+[2018.04.21-16.31.41:960][491]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.31.41:964][491]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.31.41
+[2018.04.21-16.31.41:964][491]LogWorld: Bringing up level for play took: 0.003052
+[2018.04.21-16.31.41:965][491]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.31.41:967][491]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 458
+[2018.04.21-16.31.41:967][491]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.31.45:281][491]LogLoad: Took 3.385517 seconds to LoadMap(/Game/03_Map/UEDPIE_0_Map_Level)
+[2018.04.21-16.31.48:985][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.31.49:054][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.32.25:542][820]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.21-16.32.40:770][564]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.32.42:600][604]LogSavePackage: Save=55.87ms
+[2018.04.21-16.32.42:600][604]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantD0F0F45941F6A645453AFCA30090EDC5.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.32.42:604][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.32.48:410][277]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.32.51:747][493]LogSavePackage: Save=56.34ms
+[2018.04.21-16.32.51:747][493]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant5AA96BE949F0525B9EC9159F67B70F4D.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.32.51:751][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.32.53:322][668]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.32.53:355][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.32.53:355][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.32.53:355][668]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:32:53 PM)
+[2018.04.21-16.32.53:356][668]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.32.53:365][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008589s)
+[2018.04.21-16.32.53:366][668]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.32.53:366][668]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.04.21-16.32.53:366][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009839s)
+[2018.04.21-16.32.53:394][668]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.32.53:419][668]LogInit: FAudioDevice initialized.
+[2018.04.21-16.32.53:462][668]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.32.53:467][668]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.32.53
+[2018.04.21-16.32.53:468][668]LogWorld: Bringing up level for play took: 0.003349
+[2018.04.21-16.32.53:468][668]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.32.53:471][668]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 314
+[2018.04.21-16.32.53:471][668]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.32.53:560][668]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.32.56:663][668]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 3.068
+[2018.04.21-16.32.56:664][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.00:024][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.00:092][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.04:469][457]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.33.04:501][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.04:501][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.33.04:501][457]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:33:04 PM)
+[2018.04.21-16.33.04:502][457]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.33.04:511][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009016s)
+[2018.04.21-16.33.04:512][457]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.33.04:512][457]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.04.21-16.33.04:512][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010114s)
+[2018.04.21-16.33.04:540][457]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.33.04:564][457]LogInit: FAudioDevice initialized.
+[2018.04.21-16.33.04:609][457]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.33.04:614][457]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.33.04
+[2018.04.21-16.33.04:614][457]LogWorld: Bringing up level for play took: 0.003403
+[2018.04.21-16.33.04:615][457]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.33.04:618][457]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 314
+[2018.04.21-16.33.04:618][457]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.33.04:710][457]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.33.08:523][457]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 4.929
+[2018.04.21-16.33.08:524][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.08:527][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.08:599][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.12:488][891]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.33.14:256][922]LogSavePackage: Save=61.10ms
+[2018.04.21-16.33.14:256][922]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantD4E90A6648E1857E495B20BDBCFEF365.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.33.14:260][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.33.14:964][988]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.33.14:996][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.14:997][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.33.14:997][988]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:33:14 PM)
+[2018.04.21-16.33.14:997][988]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.33.15:007][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009616s)
+[2018.04.21-16.33.15:008][988]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.33.15:008][988]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2018.04.21-16.33.15:008][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010741s)
+[2018.04.21-16.33.15:032][988]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.33.15:057][988]LogInit: FAudioDevice initialized.
+[2018.04.21-16.33.15:099][988]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.33.15:104][988]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.33.15
+[2018.04.21-16.33.15:105][988]LogWorld: Bringing up level for play took: 0.005138
+[2018.04.21-16.33.15:106][988]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.33.15:109][988]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 314
+[2018.04.21-16.33.15:109][988]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.33.15:204][988]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.33.18:799][988]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 3.205
+[2018.04.21-16.33.18:800][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.19:398][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.33.19:470][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.34.09:161][299]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.34.18:442][139]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.34.20:250][168]LogSavePackage: Save=45.87ms
+[2018.04.21-16.34.20:250][168]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTileAFFE5E7249E84A5A5603C7A9EC10F0AD.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.34.20:254][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.34.56:075][193]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.34.56:111][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.34.56:111][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.34.56:111][193]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:34:56 PM)
+[2018.04.21-16.34.56:113][193]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.34.56:122][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009021s)
+[2018.04.21-16.34.56:122][193]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.34.56:122][193]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.04.21-16.34.56:123][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010054s)
+[2018.04.21-16.34.56:146][193]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.34.56:171][193]LogInit: FAudioDevice initialized.
+[2018.04.21-16.34.56:219][193]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.34.56:224][193]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.34.56
+[2018.04.21-16.34.56:225][193]LogWorld: Bringing up level for play took: 0.004000
+[2018.04.21-16.34.56:225][193]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.34.56:229][193]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 314
+[2018.04.21-16.34.56:229][193]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.34.56:322][193]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.35.05:487][193]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 9.892
+[2018.04.21-16.35.05:487][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.12:869][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.12:938][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.19:740][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.35.19:770][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.19:771][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.35.19:771][576]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:35:19 PM)
+[2018.04.21-16.35.19:772][576]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.35.19:781][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009421s)
+[2018.04.21-16.35.19:782][576]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.35.19:782][576]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.04.21-16.35.19:782][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010383s)
+[2018.04.21-16.35.19:807][576]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.35.19:832][576]LogInit: FAudioDevice initialized.
+[2018.04.21-16.35.19:879][576]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.35.19:886][576]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.35.19
+[2018.04.21-16.35.19:886][576]LogWorld: Bringing up level for play took: 0.005246
+[2018.04.21-16.35.19:886][576]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.35.19:890][576]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 592
+[2018.04.21-16.35.19:890][576]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.35.19:982][576]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.35.24:418][576]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 4.824
+[2018.04.21-16.35.24:419][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.27:000][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.27:068][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.41:721][481]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.35.41:752][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.35.41:752][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.35.41:752][481]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:35:41 PM)
+[2018.04.21-16.35.41:753][481]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.35.41:762][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008571s)
+[2018.04.21-16.35.41:762][481]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.35.41:762][481]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.04.21-16.35.41:762][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009465s)
+[2018.04.21-16.35.41:790][481]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.35.41:813][481]LogInit: FAudioDevice initialized.
+[2018.04.21-16.35.41:857][481]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.35.41:863][481]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.35.41
+[2018.04.21-16.35.41:864][481]LogWorld: Bringing up level for play took: 0.005527
+[2018.04.21-16.35.41:865][481]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.35.41:867][481]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 592
+[2018.04.21-16.35.41:867][481]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.35.41:958][481]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.36.05:277][481]LogBlueprintDebug: Warning: Unknown breakpoint hit at node K2Node_IfThenElse in object Function /Game/02_Blueprints/Environment/BP_SoilTile.BP_SoilTile_C:ExecuteUbergraph_BP_SoilTile:0176
+[2018.04.21-16.36.12:565][481]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 30.971
+[2018.04.21-16.36.12:565][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.17:450][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.17:524][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.31:461][ 56]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.36.33:205][ 84]LogSavePackage: Save=46.76ms
+[2018.04.21-16.36.33:205][ 84]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile7FD547524808E03F458C24B0E4A58AED.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.36.33:209][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.36.34:273][188]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.36.34:313][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.34:313][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.36.34:313][188]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:36:34 PM)
+[2018.04.21-16.36.34:314][188]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.36.34:324][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009684s)
+[2018.04.21-16.36.34:324][188]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.36.34:325][188]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.04.21-16.36.34:325][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010879s)
+[2018.04.21-16.36.34:354][188]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.36.34:377][188]LogInit: FAudioDevice initialized.
+[2018.04.21-16.36.34:421][188]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.36.34:426][188]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.36.34
+[2018.04.21-16.36.34:427][188]LogWorld: Bringing up level for play took: 0.004804
+[2018.04.21-16.36.34:428][188]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.36.34:431][188]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 592
+[2018.04.21-16.36.34:431][188]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.36.34:521][188]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.36.37:164][188]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 3.569
+[2018.04.21-16.36.37:164][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.44:791][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.44:856][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.36.53:172][787]LogSavePackage: Save=57.22ms
+[2018.04.21-16.36.53:172][787]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_Plant6BB68B2D47467660E732F6A1FCDF8FC9.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.36.53:176][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.37.03:674][957]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.37.03:707][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.37.03:707][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.37.03:707][957]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:37:03 PM)
+[2018.04.21-16.37.03:708][957]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.37.03:717][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008510s)
+[2018.04.21-16.37.03:717][957]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.37.03:717][957]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.04.21-16.37.03:718][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009648s)
+[2018.04.21-16.37.03:746][957]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.37.03:769][957]LogInit: FAudioDevice initialized.
+[2018.04.21-16.37.03:820][957]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.37.03:825][957]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.37.03
+[2018.04.21-16.37.03:825][957]LogWorld: Bringing up level for play took: 0.003852
+[2018.04.21-16.37.03:826][957]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.37.03:829][957]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 592
+[2018.04.21-16.37.03:829][957]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.37.03:923][957]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/03_Map/UEDPIE_0_Map_Level.Map_Level:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.04.21-16.37.06:723][957]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 3.128
+[2018.04.21-16.37.06:723][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.37.26:327][623]LogNet: Browse: /Game/03_Map/Map_Level
+[2018.04.21-16.37.26:336][623]LogLoad: LoadMap: /Game/03_Map/Map_Level
+[2018.04.21-16.37.26:368][623]Cmd: MEM
+[2018.04.21-16.37.26:392][623]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-16.37.26:392][623]LogMemory: Process Physical Memory: 1811.48 MB used, 1961.40 MB peak
+[2018.04.21-16.37.26:392][623]LogMemory: Process Virtual Memory: 3783.35 MB used, 3915.57 MB peak
+[2018.04.21-16.37.26:392][623]LogMemory: Physical Memory: 5795.62 MB used,  2294.90 MB free, 8090.52 MB total
+[2018.04.21-16.37.26:392][623]LogMemory: Virtual Memory: 4830.33 MB used,  2294.90 MB free, 134217728.00 MB total
+[2018.04.21-16.37.26:392][623]LogMemory: 
+[2018.04.21-16.37.26:392][623]Allocator Stats for TBB: (not implemented)
+[2018.04.21-16.37.26:392][623]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.37.26:401][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008714s)
+[2018.04.21-16.37.26:401][623]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.37.26:401][623]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.04.21-16.37.26:402][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009600s)
+[2018.04.21-16.37.26:402][623]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.37.26:406][623]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.37.26
+[2018.04.21-16.37.26:406][623]LogWorld: Bringing up level for play took: 0.003444
+[2018.04.21-16.37.26:406][623]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.37.26:408][623]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 592
+[2018.04.21-16.37.26:408][623]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ReceiveBeginPlay
+	Function /Game/02_Blueprints/Environment/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant
+
+[2018.04.21-16.37.26:928][623]LogLoad: Took 0.591570 seconds to LoadMap(/Game/03_Map/UEDPIE_0_Map_Level)
+[2018.04.21-16.37.26:930][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.37.27:002][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.37.37:029][708]LogSavePackage: Save=44.91ms
+[2018.04.21-16.37.37:029][708]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile28142E654406D4AADA7BB9A82740F44C.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.37.37:033][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.40.11:986][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/04_GameArt/Sol" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/Sol.uasset" SILENT=true
+[2018.04.21-16.40.11:993][382]LogSavePackage: Save=6.20ms
+[2018.04.21-16.40.11:993][382]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/Sol7BDBACC0446E26FDFB9C4C9663A28AF8.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/Sol.uasset'
+[2018.04.21-16.40.11:997][382]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/Sol.uasset
+[2018.04.21-16.40.17:318][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/04_GameArt/S_Sol" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset" SILENT=true
+[2018.04.21-16.40.17:326][801]LogSavePackage: Save=6.33ms
+[2018.04.21-16.40.17:326][801]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/S_Sol43BC67ED47D5F22CB9B50F8FCD13719E.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset'
+[2018.04.21-16.40.17:329][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset
+[2018.04.21-16.40.24:259][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/04_GameArt/T_Sol" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/T_Sol.uasset" SILENT=true
+[2018.04.21-16.40.24:263][284]LogSavePackage: Save=2.50ms
+[2018.04.21-16.40.24:263][284]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/T_Sol34EA3E624F9B8008D7EBFC974B43844A.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/T_Sol.uasset'
+[2018.04.21-16.40.24:267][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/T_Sol.uasset
+[2018.04.21-16.40.24:453][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/04_GameArt/S_Sol" FILE="../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset" SILENT=true
+[2018.04.21-16.40.24:468][284]LogSavePackage: Save=3.10ms
+[2018.04.21-16.40.24:468][284]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/S_SolE07EDF9E4F8043BF56642EA59E5E607D.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset'
+[2018.04.21-16.40.24:469][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/04_GameArt/S_Sol.uasset
+[2018.04.21-16.40.59:236][668]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.41.01:085][708]LogSavePackage: Save=68.94ms
+[2018.04.21-16.41.01:085][708]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile30D00D984743B3B2F43E2795D924633B.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.41.01:089][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.41.05:693][241]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.41.05:731][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.05:731][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.41.05:731][241]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:41:05 PM)
+[2018.04.21-16.41.05:732][241]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.41.05:741][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009015s)
+[2018.04.21-16.41.05:741][241]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.41.05:742][241]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.04.21-16.41.05:742][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010081s)
+[2018.04.21-16.41.05:768][241]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.41.05:793][241]LogInit: FAudioDevice initialized.
+[2018.04.21-16.41.05:834][241]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.41.05:839][241]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.41.05
+[2018.04.21-16.41.05:840][241]LogWorld: Bringing up level for play took: 0.003944
+[2018.04.21-16.41.05:840][241]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.41.05:844][241]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 0.25
+[2018.04.21-16.41.05:845][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.08:751][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.08:817][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.14:142][ 69]LogSavePackage: Save=45.38ms
+[2018.04.21-16.41.14:142][ 69]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile150CD6514E2019B6684698BA28D50793.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.41.14:143][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.41.28:424][526]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.41.29:798][526]LogSavePackage: Save=44.43ms
+[2018.04.21-16.41.29:798][526]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile474ECA3C4A120FC86D882598F7391409.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.41.29:801][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.41.30:325][564]LogSavePackage: Save=45.34ms
+[2018.04.21-16.41.30:325][564]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile808EA86444BD14BED95BFDA46CF6CA2D.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.41.30:327][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.41.30:968][634]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.41.31:003][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.31:003][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.41.31:003][634]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:41:31 PM)
+[2018.04.21-16.41.31:004][634]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.41.31:013][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008896s)
+[2018.04.21-16.41.31:014][634]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.41.31:014][634]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.04.21-16.41.31:014][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009895s)
+[2018.04.21-16.41.31:040][634]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.41.31:064][634]LogInit: FAudioDevice initialized.
+[2018.04.21-16.41.31:108][634]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.41.31:114][634]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.41.31
+[2018.04.21-16.41.31:114][634]LogWorld: Bringing up level for play took: 0.004205
+[2018.04.21-16.41.31:115][634]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.41.31:119][634]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level -0.475
+[2018.04.21-16.41.31:120][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.32:673][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.41.32:740][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.42.57:635][782]LogEditorViewport: Clicking on Actor (LMB): BP_SoilTile_C (BP_SoilTile5)
+[2018.04.21-16.42.58:087][805]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.21-16.43.13:012][686]LogEditorViewport: Clicking on Actor (LMB): BP_SoilTile_C (BP_SoilTile)
+[2018.04.21-16.43.14:345][763]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile2)
+[2018.04.21-16.43.15:001][799]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile3)
+[2018.04.21-16.43.16:181][867]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile6)
+[2018.04.21-16.43.17:177][923]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile5)
+[2018.04.21-16.43.17:993][969]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile4)
+[2018.04.21-16.43.19:315][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile7)
+[2018.04.21-16.43.19:982][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile8)
+[2018.04.21-16.43.21:465][166]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_SoilTile_C (BP_SoilTile9)
+[2018.04.21-16.43.42:668][973]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.21-16.43.43:208][979]LogEditorTransaction: Undo Move Actors
+[2018.04.21-16.43.51:516][894]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.43.53:397][921]LogSavePackage: Save=43.60ms
+[2018.04.21-16.43.53:397][921]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_SoilTile90CA8DDC44F165F5D519119AC2BCF911.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset'
+[2018.04.21-16.43.53:401][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
+[2018.04.21-16.43.56:430][255]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.43.56:466][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.43.56:467][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.43.56:467][255]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:43:56 PM)
+[2018.04.21-16.43.56:468][255]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.43.56:477][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009299s)
+[2018.04.21-16.43.56:478][255]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.43.56:478][255]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.04.21-16.43.56:478][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010356s)
+[2018.04.21-16.43.56:505][255]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.43.56:529][255]LogInit: FAudioDevice initialized.
+[2018.04.21-16.43.56:573][255]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.43.56:578][255]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.43.56
+[2018.04.21-16.43.56:578][255]LogWorld: Bringing up level for play took: 0.004080
+[2018.04.21-16.43.56:579][255]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.43.56:584][255]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 0.989
+[2018.04.21-16.43.56:584][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.43.58:617][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.43.58:690][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.53.19:233][476]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.53.19:269][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.53.19:269][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.53.19:269][476]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:53:19 PM)
+[2018.04.21-16.53.19:270][476]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.53.19:280][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009729s)
+[2018.04.21-16.53.19:280][476]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.53.19:280][476]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.04.21-16.53.19:281][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010937s)
+[2018.04.21-16.53.19:311][476]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.53.19:336][476]LogInit: FAudioDevice initialized.
+[2018.04.21-16.53.19:380][476]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.53.19:386][476]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.53.19
+[2018.04.21-16.53.19:387][476]LogWorld: Bringing up level for play took: 0.005035
+[2018.04.21-16.53.19:387][476]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.53.19:393][476]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level -0.202
+[2018.04.21-16.53.19:394][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.53.24:697][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.53.24:765][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.53.31:357][575]BlueprintLog: New page: Compile BP_Plant
+[2018.04.21-16.53.33:462][633]LogSavePackage: Save=58.51ms
+[2018.04.21-16.53.33:462][633]LogSavePackage: Moving '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Saved/BP_PlantABF3FAB64B3986AD88F99E806FF11E31.tmp' to '../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset'
+[2018.04.21-16.53.33:466][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/UnrealEngine/LudumDare2018/UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+[2018.04.21-16.54.13:724][514]BlueprintLog: New page: Compile BP_SoilTile
+[2018.04.21-16.54.18:316][879]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.54.18:353][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.54.18:354][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.54.18:354][879]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:54:18 PM)
+[2018.04.21-16.54.18:355][879]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.54.18:363][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008342s)
+[2018.04.21-16.54.18:363][879]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.54.18:364][879]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2018.04.21-16.54.18:364][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.009242s)
+[2018.04.21-16.54.18:391][879]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.54.18:415][879]LogInit: FAudioDevice initialized.
+[2018.04.21-16.54.18:464][879]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.54.18:469][879]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.54.18
+[2018.04.21-16.54.18:469][879]LogWorld: Bringing up level for play took: 0.004129
+[2018.04.21-16.54.18:470][879]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.54.18:477][879]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 0.883
+[2018.04.21-16.54.18:478][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.54.26:571][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.54.26:645][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.54.47:891][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.21-16.54.47:931][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.54.47:931][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.21-16.54.47:931][570]PIE: New page: PIE session: Map_Level (Apr 21, 2018, 8:54:47 PM)
+[2018.04.21-16.54.47:932][570]LogPlayLevel: Creating play world package: /Game/03_Map/UEDPIE_0_Map_Level
+[2018.04.21-16.54.47:941][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009347s)
+[2018.04.21-16.54.47:942][570]LogAIModule: Creating AISystem for world Map_Level
+[2018.04.21-16.54.47:942][570]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.04.21-16.54.47:942][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/03_Map/Map_Level.Map_Level to /Game/03_Map/UEDPIE_0_Map_Level.Map_Level (0.010432s)
+[2018.04.21-16.54.47:972][570]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.21-16.54.47:997][570]LogInit: FAudioDevice initialized.
+[2018.04.21-16.54.48:041][570]LogLoad: Game class is 'BP_GameMode_C'
+[2018.04.21-16.54.48:046][570]LogWorld: Bringing World /Game/03_Map/UEDPIE_0_Map_Level.Map_Level up for play (max tick rate 0) at 2018.04.21-18.54.48
+[2018.04.21-16.54.48:046][570]LogWorld: Bringing up level for play took: 0.003708
+[2018.04.21-16.54.48:047][570]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2018.04.21-16.54.48:052][570]PIE: Play in editor start time for /Game/03_Map/UEDPIE_0_Map_Level 0.458
+[2018.04.21-16.54.48:053][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.55.00:782][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.55.00:851][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/03_Map/Map_Level.Map_Level:PersistentLevel' has LevelScriptBlueprint '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level' with GeneratedClass '/Game/03_Map/Map_Level.Map_Level_C' with ClassGeneratedBy '/Game/03_Map/Map_Level.Map_Level:PersistentLevel.Map_Level'
+[2018.04.21-16.56.26:727][131]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.594 s
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: 
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2295]
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: Graph SOIL_GetPlant already exists: EdGraph /Game/02_Blueprints/Environment/BP_SoilTile.BP_SoilTile:SOIL_GetPlant
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: Stack: 
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B453E36
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B1DC2D2
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B1F4746
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000009610BFD7
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000096109847
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000961088C6
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetCompiler.dll!0x00000000909CAF1A
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetCompiler.dll!0x00000000909C9749
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetCompiler.dll!0x00000000909C89EC
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000009614085C
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000096126EFE
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000933CD05D
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000943453B2
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000009435320B
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000942DA61C
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000942DEB0C
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B1B619
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B1CBBA
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AF8730
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AFA1BA
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AF96C7
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B2108C
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B2AE1F
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B2B706
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090B12E58
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AB29D2
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AB2D74
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-KismetWidgets.dll!0x0000000090AF837A
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000976EB9A5
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000977126C9
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000097534761
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000975060BE
+[2018.04.21-16.56.26:727][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000097507CC6
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000975880B7
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000097579B18
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B42B498
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B413EE1
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B42D5BB
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B40F042
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: USER32.dll!0x00000000F891B85D
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: USER32.dll!0x00000000F891B1EF
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000009B42DCC6
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor.exe!0x000000005CF94BE2
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor.exe!0x000000005CFA3970
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor.exe!0x000000005CFA39EA
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor.exe!0x000000005CFB02D9
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: UE4Editor.exe!0x000000005CFB1C47
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: KERNEL32.DLL!0x00000000F8811FE4
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: ntdll.dll!0x00000000F8E5F061
+[2018.04.21-16.56.26:728][131]LogOutputDevice: Error: 
+[2018.04.21-16.56.26:736][131]LogStats:                SubmitErrorReport -  0.000 s
