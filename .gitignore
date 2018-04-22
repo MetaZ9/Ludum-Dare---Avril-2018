@@ -40,3 +40,7 @@ UE4/LudumDare_2018/Saved/Logs/LudumDare_2018.log
 *.bin
 *.ini
 *.log
+UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset
+UE4/LudumDare_2018/Content/02_Blueprints/DataList/DataT_Objects.uasset
+UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_Plant.uasset
+UE4/LudumDare_2018/Content/02_Blueprints/Environment/BP_SoilTile.uasset
