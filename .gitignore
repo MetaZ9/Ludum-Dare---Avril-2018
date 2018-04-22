@@ -37,3 +37,6 @@ UE4/LudumDare_2018/Intermediate/CachedAssetRegistry.bin
 UE4/LudumDare_2018/Saved/AutoScreenshot.png
 UE4/LudumDare_2018/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 UE4/LudumDare_2018/Saved/Logs/LudumDare_2018.log
+*.bin
+*.ini
+*.log
